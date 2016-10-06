@@ -1,5 +1,3 @@
-# Compiled
-*.elc
+# emacs backups
+*~
 
-# Packaging
-.cask
