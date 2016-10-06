@@ -1,0 +1,26 @@
+Here's a test of some tricky renderings for greek:
+
+A combining acute accent (code point U+0301, UTF-8 encoding 0xCC 0x81) over the alpha (code point U+03B1, UTF-8 encoding 0xCE 0xB1):
+
+βάλλω
+
+In the following I used a combining Greek perispomeni, (code point U+0342) over the iota, NOT, a combining tilde (code point U+0303), despite that the Montaigne from which I copied used the tilde. Thus per the spec in the cheatsheet, the font may decide to render either a tilde or an inverted breve.  Note that emacs' set-input-method of greek-postfix did not provide the rho symbol below (code point U+03F1), but rather this one (testing, to discover code point by reverse encoding from UTF-8, I'm guessing U+03C1, so looking for UTF-8 encoding 0xCF 0x81): ρ , but in the Montaigne from which I'm copying, the older rho symbol is typeset:
+
+χεῖϱον
+
+Similarly:
+
+βέλτιον
+χεῖϱιστον
+βέλτιστον
+
+
+Two combining diacritics:
+
+ῖ́
+
+Three combining diacritics:
+
+ῖ̰́
+
+This entire document (in .txt form, but I’m guessing .pdf too) is encoded in UTF-8, and has been rendered by TextEdit v.1.11 in the Helvetica regular font at 18 point.
