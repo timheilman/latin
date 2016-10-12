@@ -1,68 +1,66 @@
-Name the period: Plautus; Archaic and Early Republican
-Name the period: Terence; Archaic and Early Republican
-Name the period: Lucretius; Ciceronian
-Name the period: Catullus; Ciceronian
-Name the period: Cicero; Ciceronian
-Name the period: Caesar; Ciceronian
-Name the period: Nepos; Ciceronian
-Name the period: Publilius Syrus; Ciceronian
-Name the period: Vergil; Augustan
-Name the period: Horace; Augustan
-Name the period: Livy; Augustan
-Name the period: Propertius; Augustan
-Name the period: Ovid; Augustan
-Name the period: Seneca; Post-Augustan (Silver)
-Name the period: Petronius; Post-Augustan (Silver)
-Name the period: Quintilian; Post-Augustan (Silver)
-Name the period: Martial; Post-Augustan (Silver)
-Name the period: Pliny The Younger; Post-Augustan (Silver)
-Name the period: Tacitus; Post-Augustan (Silver)
-Name the period: Juvenal; Post-Augustan (Silver)
-Name the period: Plutarch; Post-Augustan (Silver), but Greek, biographer of 3rd c BCE Greeks
-Name the period: Fronto; Archaising
-Name the period: Aulus Gellius; Archaising
-Name the period: Tertullian; Patristic
-Name the period: Cyprian; Patristic
-Name the period: Lactantius; Patristic
-Name the period: Jerome; Patristic
-Name the period: Ambrose; Patristic
-Name the period: Augustine (Of Hippo); Patristic
-Name the period: Isidore of Seville; Medieval
-Name the period: Dante; Medieval
-Name the period: Petrarch; Medieval
-Name the period: Erasmus; Renaissance
-Name the period: Sir Thomas More; Renaissance
-Name the period: Milton; Renaissance
-Name the period: Bacon; Renaissance
-Name the period: Newton; Renaissance
-Name the period: Hume; Renaissance
-Name the period: Kant; Renaissance
-Name the period: Locke; Renaissance
-What happened: 80 BCE; 1) end of Archaic and Early Republican period, 2) start of "Golden Age" of Rome 3) start of Ciceronian period
-What happened: 43 BCE; 1) death of Cicero, 2) end of Ciceronian period, 3) start of Augustan period
-What happened: 14 CE; 1) death of Augustus, 2) end of Augustan period, 3) end of "Golden Age" of Rome, 4) start of Post-Augustan (Silver) period
-What happened: 138 CE; 1) death of Hadrian, 2) end of Post-Augustan (Silver), 3) start of archaising period
-What happened: end of second century; 1) End of Archaising period, 2) Start of Patristic period
-What happened: end of fifth century; 1) End of Patristic period, 2) Start of medieval period
-What happened: end of fourteenth century; 1) End of Medieval period, 2) Start of Renaissance period
-When did it happen: end of Archaic and Early Republican period; 80 BCE
-When did it happen: start of "Golden Age" of Rome; 80 BCE
-When did it happen: start of "Golden Age" of Rome; 80 BCE
-When did it happen: start of Ciceronian period; 80 BCE
-When did it happen: death of Cicero; 43 BCE
-When did it happen: end of Ciceronian period; 43 BCE
-When did it happen: start of Augustan period; 43 BCE
-When did it happen: death of Augustus; 14 CE
-When did it happen: end of Augustan period; 14 CE
-When did it happen: end of "Golden Age" of Rome; 14 CE
-When did it happen: start of Post-Augustan (Silver) period; 14 CE
-When did it happen: end of Post-Augustan (Silver) period; 138 CE
-When did it happen: death of Hadrian; 138 CE
-When did it happen: start of Archaising period; 138 CE
-When did it happen: end of Archaising period; end of second century
-When did it happen: start of the Patristic period; end of second century
-When did it happen: end of the Patristic period; end of fifth century
-When did it happen: start of the Medieval period; end of fifth century
-When did it happen: end of the Medieval period; end of fourteenth century
-When did it happen: start of the Renaissance period; end of fourteenth century
-
+Name the period: Plautus&nbsp;{{c1::Archaic and Early Republican}}	Wheelock	0	wereBasic
+Name the period: Terence {{c1::Archaic and Early Republican}}	Wheelock	0	wereBasic
+Name the period: Lucretius&nbsp;{{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Catullus&nbsp;{{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Cicero&nbsp;{{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Caesar&nbsp;{{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Nepos&nbsp;{{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Publilius Syrus {{c1::Ciceronian}}	Wheelock	0	wereBasic
+Name the period: Vergil&nbsp;{{c1::Augustan}}	Wheelock	0	wereBasic
+Name the period: Horace&nbsp;{{c1::Augustan}}	Wheelock	0	wereBasic
+Name the period: Livy&nbsp;{{c1::Augustan}}	Wheelock	0	wereBasic
+Name the period: Propertius&nbsp;{{c1::Augustan}}	Wheelock	0	wereBasic
+Name the period: Ovid {{c1::Augustan}}	Wheelock	0	wereBasic
+Name the period: Seneca&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Petronius&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Quintilian&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Martial&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Pliny The Younger&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Tacitus&nbsp;{{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Juvenal {{c1::Post-Augustan (Silver)}}	Wheelock	0	wereBasic
+Name the period: Plutarch {{c1::Post-Augustan (Silver), but Greek, biographer of 3rd c BCE Greeks}}	Wheelock	0	wereBasic
+Name the period: Fronto&nbsp;{{c1::Archaising}}	Wheelock	0	wereBasic
+Name the period: Aulus Gellius {{c1::Archaising}}	Wheelock	0	wereBasic
+Name the period: Tertullian&nbsp;{{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Cyprian&nbsp;{{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Lactantius&nbsp;{{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Jerome&nbsp;{{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Ambrose&nbsp;{{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Augustine (Of Hippo) {{c1::Patristic}}	Wheelock	0	wereBasic
+Name the period: Isidore of Seville&nbsp;{{c1::Medieval}}	Wheelock	0	wereBasic
+Name the period: Dante&nbsp;{{c1::Medieval}}	Wheelock	0	wereBasic
+Name the period: Petrarch {{c1::Medieval}}	Wheelock	0	wereBasic
+Name the period: Erasmus&nbsp;{{c1::Renaissance}}	Wheelock	0	wereBasic
+Name the period: Sir Thomas More&nbsp;{{c1::Renaissance}}	Wheelock	0	wereBasic
+Name the period: Milton&nbsp;{{c1::Renaissance}}	Wheelock	0	wereBasic
+Name the period: Bacon {{c1::Renaissance}}	Wheelock	0	wereBasic
+Name the period: Newton {{c1::Renaissance}}	Wheelock	0	wereBasic
+Name the period: Hume {{c1::Renaissance}}	Wheelock	0	
+Name the period: Kant {{c1::Renaissance}}	Wheelock	0	
+Name the period: Locke {{c1::Renaissance}}	Wheelock	0	
+What happened: 80 BCE {{c1::1) end of Archaic and Early Republican period, 2) start of "Golden Age" of Rome 3) start of Ciceronian period}}	Wheelock	0	wereBasic
+What happened: 43 BCE {{c1::1) death of Cicero, 2) end of Ciceronian period, 3) start of Augustan period}}	Wheelock	0	wereBasic
+What happened: 14 CE {{c1::1) death of Augustus, 2) end of Augustan period, 3) end of "Golden Age" of Rome, 4) start of Post-Augustan (Silver) period}}	Wheelock	0	wereBasic
+What happened: 138 CE {{c1::1) death of Hadrian, 2) end of Post-Augustan (Silver), 3) start of archaising period}}	Wheelock	0	wereBasic
+What happened: end of second century {{c1::1) End of Archaising period, 2) Start of Patristic period}}	Wheelock	0	wereBasic
+What happened: end of fifth century {{c1::1) End of Patristic period, 2) Start of medieval period}}	Wheelock	0	wereBasic
+What happened: end of fourteenth century {{c1::1) End of Medieval period, 2) Start of Renaissance period}}	Wheelock	0	wereBasic
+When did it happen: end of Archaic and Early Republican period {{c1::80 BCE}}	Wheelock	0	wereBasic
+When did it happen: start of "Golden Age" of Rome&nbsp;{{c1::80 BCE}}	Wheelock	0	wereBasic
+When did it happen: start of Ciceronian period&nbsp;{{c1::80 BCE}}	Wheelock	0	wereBasic
+When did it happen: death of Cicero {{c1::43 BCE}}	Wheelock	0	wereBasic
+When did it happen: end of Ciceronian period&nbsp;{{c1::43 BCE}}	Wheelock	0	wereBasic
+When did it happen: start of Augustan period&nbsp;{{c1::43 BCE}}	Wheelock	0	wereBasic
+When did it happen: death of Augustus {{c1::14 CE}}	Wheelock	0	wereBasic
+When did it happen: end of Augustan period&nbsp;{{c1::14 CE}}	Wheelock	0	wereBasic
+When did it happen: end of "Golden Age" of Rome&nbsp;{{c1::14 CE}}	Wheelock	0	wereBasic
+When did it happen: start of Post-Augustan (Silver) period&nbsp;{{c1::14 CE}}	Wheelock	0	wereBasic
+When did it happen: end of Post-Augustan (Silver) period&nbsp;{{c1::138 CE}}	Wheelock	0	wereBasic
+When did it happen: death of Hadrian {{c1::138 CE}}	Wheelock	0	wereBasic
+When did it happen: start of Archaising period&nbsp;{{c1::138 CE}}	Wheelock	0	wereBasic
+When did it happen: end of Archaising period {{c1::end of second century}}	Wheelock	0	wereBasic
+When did it happen: start of the Patristic period {{c1::end of second century}}	Wheelock	0	wereBasic
+When did it happen: end of the Patristic period {{c1::end of fifth century}}	Wheelock	0	wereBasic
+When did it happen: start of the Medieval period {{c1::end of fifth century}}	Wheelock	0	wereBasic
+When did it happen: end of the Medieval period {{c1::end of fourteenth century}}	Wheelock	0	wereBasic
+When did it happen: start of the Renaissance period &nbsp;{{c1::end of fourteenth century}}	Wheelock	0	wereBasic
