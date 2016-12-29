@@ -1,32 +1,32 @@
 hic . {{c1::hic:M nom sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 haec . {{c1::haec:F nom sg; N nom or acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-hoc . {{c1::hoc:N nom or acc sg; ho̅c: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+hoc . {{c1::hoc:N nom or acc sg; hōc: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 huius . {{c1::huius:M, F, or N gen sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 huic . {{c1::huic:M, F, or N dat sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 hunc . {{c1::hunc:M acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 hanc . {{c1::hanc:F acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-hac . {{c1::ha̅c:F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-hi . {{c1::hi̅:M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+hac . {{c1::hāc:F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+hi . {{c1::hī:M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 hae . {{c1::hae:F nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-horum . {{c1::ho̅rum:M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-harum . {{c1::ha̅rum:F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-his . {{c1::hi̅s:M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-hos . {{c1::ho̅s:M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-has . {{c1::ha̅s:F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -ius . {{c1::-i̅us: M, F, or N gen sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -i . {{c1::-i̅: M, F, or N dat sg; M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+horum . {{c1::hōrum:M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+harum . {{c1::hārum:F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+his . {{c1::hīs:M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+hos . {{c1::hōs:M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+has . {{c1::hās:F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -ius . {{c1::-īus: M, F, or N gen sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -i . {{c1::-ī: M, F, or N dat sg; M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 UNUS NAUTA adj and ille/illa/illud: -um . {{c1::-um: N nom or acc sg (non-ud N nom sg UNUS NAUTA); M acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 UNUS NAUTA adj and ille/illa/illud: -ud . {{c1::-ud: N nom or acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 UNUS NAUTA adj and ille/illa/illud: ille . {{c1::ille: M nom sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 UNUS NAUTA adj and ille/illa/illud: -am . {{c1::-am: F acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -a . {{c1::-a: F nom sg; N nom or acc pl; a̅: F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -a . {{c1::-a: F nom sg; N nom or acc pl; ā: F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 UNUS NAUTA adj and ille/illa/illud: -ae . {{c1::-ae: F nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -orum . {{c1::-o̅rum: M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -arum . {{c1::-a̅rum: F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -is . {{c1::-i̅s: M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -as . {{c1::-a̅s: F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -os . {{c1::-o̅s: M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
-UNUS NAUTA adj and ille/illa/illud: -o . {{c1::-o̅: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -orum . {{c1::-ōrum: M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -arum . {{c1::-ārum: F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -is . {{c1::-īs: M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -as . {{c1::-ās: F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -os . {{c1::-ōs: M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
+UNUS NAUTA adj and ille/illa/illud: -o . {{c1::-ō: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	9	
 Personal Pronoun: {{c1::égo}} . {{c2::M or F 1st nom sg "I"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::méī}} . {{c2::M or F 1st gen sg "of me"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::míhi}} . {{c2::M or F 1st dat sg "me/to me/for me"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
