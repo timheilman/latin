@@ -16,9 +16,10 @@ Ending/declension/gender: as 1 M . {{c1::a̅s: acc pl::case(s) and number(s) for
 Ending/declension/gender: e 2 M . {{c1::e: voc sg for nouns/adj in -us::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: e 3reg M . {{c1::e: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: e 3reg F . {{c1::e: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
-Ending/declension/gender: e 3istem M . {{c1::e: abl sg (nouns only)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
-Ending/declension/gender: e 3istem F . {{c1::e: abl sg (nouns only)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Ending/declension/gender: e 3istem M . {{c1::e: abl sg (nouns always, adj never except present active participles, the latter esp when not used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Ending/declension/gender: e 3istem F . {{c1::e: abl sg (nouns always, adj never except present active participles, the latter esp when not used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: e 3reg N . {{c1::e: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Ending/declension/gender: e 3istem N . {{c1::e: abl sg (present active participles only)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension: e 5 . {{c1::e̅: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension: ebus 5 . {{c1::e̅bus: dat or abl pl::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension: ei 5 . {{c1::ei̅: gen or dat sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
@@ -34,8 +35,8 @@ Ending/declension/gender: i 2 M . {{c1::i̅: (gen sg) OR (nom pl) OR (voc sg for
 Ending/declension/gender: i 2 N . {{c1::i̅: gen sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: i 3reg M . {{c1::i̅: dat sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: i 3reg F . {{c1::i̅: dat sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
-Ending/declension/gender: i 3istem M . {{c1::i̅: dat sg; abl sg (adj only)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
-Ending/declension/gender: i 3istem F . {{c1::i̅: dat sg; abl sg (adj only)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Ending/declension/gender: i 3istem M . {{c1::i̅: dat sg (nouns and adj); abl sg (nouns never, adj always except present active participles (sometimes), the last esp when used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Ending/declension/gender: i 3istem F . {{c1::i̅: dat sg (nouns and adj); abl sg (nouns never, adj always except present active participles (sometimes), the last esp when used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: i 3reg N . {{c1::i̅: dat sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: i 3istem N . {{c1::i̅: dat or abl sg::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
 Ending/declension/gender: ia 3istem N . {{c1::ia: nom or acc pl::case(s) and number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	

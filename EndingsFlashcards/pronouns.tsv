@@ -1,0 +1,61 @@
+hic . {{c1::hic:M nom sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+haec . {{c1::haec:F nom sg; N nom or acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hoc . {{c1::hoc:N nom or acc sg; ho̅c: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+huius . {{c1::huius:M, F, or N gen sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+huic . {{c1::huic:M, F, or N dat sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hunc . {{c1::hunc:M acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hanc . {{c1::hanc:F acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hac . {{c1::ha̅c:F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hi . {{c1::hi̅:M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hae . {{c1::hae:F nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+horum . {{c1::ho̅rum:M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+harum . {{c1::ha̅rum:F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+his . {{c1::hi̅s:M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+hos . {{c1::ho̅s:M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+has . {{c1::ha̅s:F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -ius . {{c1::-i̅us: M, F, or N gen sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -i . {{c1::-i̅: M, F, or N dat sg; M nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -um . {{c1::-um: N nom or acc sg (non-ud N nom sg UNUS NAUTA); M acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -ud . {{c1::-ud: N nom or acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: ille . {{c1::ille: M nom sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -am . {{c1::-am: F acc sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -a . {{c1::-a: F nom sg; N nom or acc pl; a̅: F abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -ae . {{c1::-ae: F nom pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -orum . {{c1::-o̅rum: M or N gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -arum . {{c1::-a̅rum: F gen pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -is . {{c1::-i̅s: M, F, or N dat or abl pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -as . {{c1::-a̅s: F acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -os . {{c1::-o̅s: M acc pl::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+UNUS NAUTA adj and ille/illa/illud: -o . {{c1::-o̅: M or N abl sg::gender(s) case(s) number(s) for macron(s)}}	Wheelock	Summa̅rium Fo̅rma̅rum	
+Personal Pronoun: {{c1::égo}} . {{c2::M or F 1st nom sg "I"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::méī}} . {{c2::M or F 1st gen sg "of me"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::míhi}} . {{c2::M or F 1st dat sg "me/to me/for me"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::mē}} . {{c2::M or F 1st acc or abl sg "me/by me/with me/from me"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::nōs}} . {{c2::M or F 1st nom or acc pl "we/us"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::nóstrum}} . {{c2::M or F 1st gen pl "of us"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::nóstrī}} . {{c2::M or F 1st gen pl (alt) "of us"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::nṓbīs}} . {{c2::M or F 1st dat or abl pl "to us/for us/by us/with us/from us"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::tū}} . {{c2::M or F 2nd nom sg "you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::túī}} . {{c2::M or F 2nd gen sg "of you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::tíbi}} . {{c2::M or F 2nd dat sg "to you/for you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::tē}} . {{c2::M or F 2nd acc or abl sg "you/by you/with you/from you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::vōs}} . {{c2::M or F 2nd nom or acc pl "you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::véstrum}} . {{c2::M or F 2nd gen pl "of you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::véstrī}} . {{c2::M or F 2nd gen pl (alt) "of you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::vṓbīs}} . {{c2::M or F 2nd dat or abl pl "to you/for you/by you/with you/from you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::is}} . {{c2::M 3rd nom sg "he"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éa}} . {{c2::F 3rd nom sg "she"; N 3rd nom or acc pl::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::id}} . {{c2::N 3rd nom or acc sg "it"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éius}} . {{c2::M F N 3rd gen sg "of him/of her/of it/his/her/its"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éī}} . {{c2::M F N 3rd dat sg "to/for him/her/it"; M 3rd nom pl "they"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eum}} . {{c2::M 3rd acc sg "him"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eam}} . {{c2::F 3rd acc sg "her"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éō}} . {{c2::M N 3rd abl sg "by/with/from him/it"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éā}} . {{c2::F 3rd abl sg "by/with/from her"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::íī}} . {{c2::M 3rd nom pl (alt) "they"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éae}} . {{c2::F 3rd nom pl "they"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eṓrum}} . {{c2::M N 3rd gen pl "of them/their"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eā́rum}} . {{c2::F 3rd gen pl "of them/their"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éīs}} . {{c2::M F N 3rd dat and abl pl "to/for/by/with/from them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éōs}} . {{c2::M 3rd acc pl "them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éās}} . {{c2::F 3rd acc pl "them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
