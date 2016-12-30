@@ -1,0 +1,16 @@
+reg verb: conj/prin part/ending: 1 2 o . {{c1::ō, 1, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 as . {{c1::ās, 2, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 at . {{c1::at, 3, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 amus . {{c1::āmus, 1, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 atis . {{c1::ātis, 2, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 ant . {{c1::ant, 3, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 eo . {{c1::eō, 1, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 es . {{c1::ēs, 2, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 et . {{c1::et, 3, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 emus . {{c1::ēmus, 1, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 etis . {{c1::ētis, 2, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 ent . {{c1::ent, 3, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 a . {{c1::ā, 2, sg, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 1 2 ate . {{c1::āte, 2, pl, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 e . {{c1::ē, 2, sg, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
+reg verb: conj/prin part/ending: 2 2 ete . {{c1::ēte, 2, pl, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	1	
