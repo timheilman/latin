@@ -19,7 +19,7 @@ Ending/declension/gender: e 3reg F . {{c1::e: abl sg::case(s) and number(s) for 
 Ending/declension/gender: e 3istem M . {{c1::e: abl sg (nouns always, adj never except present active participles, the latter esp when not used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	14	
 Ending/declension/gender: e 3istem F . {{c1::e: abl sg (nouns always, adj never except present active participles, the latter esp when not used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	14	
 Ending/declension/gender: e 3reg N . {{c1::e: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	7	
-Ending/declension/gender: e 3istem N . {{c1::e: abl sg (present active participles only)::case(s) and number(s) for macron(s)}}	Wheelock	14	
+Ending/declension/gender: e 3istem N . {{c1::e: abl sg (present active participles only, esp when not used as strictly attributative adjectives)::case(s) and number(s) for macron(s)}}	Wheelock	14	
 Ending/declension: e 5 . {{c1::ē: abl sg::case(s) and number(s) for macron(s)}}	Wheelock	22	
 Ending/declension: ebus 5 . {{c1::ēbus: dat or abl pl::case(s) and number(s) for macron(s)}}	Wheelock	22	
 Ending/declension: ei 5 . {{c1::eī: gen or dat sg::case(s) and number(s) for macron(s)}}	Wheelock	22	
