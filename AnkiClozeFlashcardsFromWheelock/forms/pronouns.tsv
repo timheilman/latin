@@ -59,3 +59,10 @@ Personal Pronoun: {{c1::eā́rum}} . {{c2::F 3rd gen pl "of them/their"::gender(
 Personal Pronoun: {{c1::éīs}} . {{c2::M F N 3rd dat and abl pl "to/for/by/with/from them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::éōs}} . {{c2::M 3rd acc pl "them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::éās}} . {{c2::F 3rd acc pl "them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::-dem on form of is/ea/id}} . {{c2::"the same"::translation}}	Wheelock	11	
+Personal Pronoun: {{c1::īdem}} . {{c2::M 3rd nom sg "the same man"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::idem}} . {{c2::N 3rd nom sg "the same thing"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eundem}} . {{c2::M 3rd acc sg "the same man"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eandem}} . {{c2::F 3rd acc sg "the same woman"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eōrundem}} . {{c2::M N 3rd gen pl "of the same men/things"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::eārundem}} . {{c2::F 3rd gen pl "of the same women"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	

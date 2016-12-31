@@ -38,3 +38,67 @@ reg verb: conj/prin part/ending: 2 2 ebat . {{c1::ēbat, 3, sg, imperfect, indic
 reg verb: conj/prin part/ending: 2 2 ebamus . {{c1::ēbāmus, 1, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	5	
 reg verb: conj/prin part/ending: 2 2 ebatis . {{c1::ēbātis, 2, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	5	
 reg verb: conj/prin part/ending: 2 2 ebant . {{c1::ēbant, 3, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	5	
+reg verb: conj/prin part/ending: 3 2 o . {{c1::ō, 1, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 is . {{c1::is, 2, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 it . {{c1::it, 3, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 imus . {{c1::imus, 1, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 itis . {{c1::itis, 2, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 unt . {{c1::unt, 3, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 am . {{c1::am, 1, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 es . {{c1::ēs, 2, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 et . {{c1::et, 3, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 emus . {{c1::ēmus, 1, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 etis . {{c1::ētis, 2, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ent . {{c1::ent, 3, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebam . {{c1::ēbam, 1, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebas . {{c1::ēbās, 2, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebat . {{c1::ēbat, 3, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebamus . {{c1::ēbāmus, 1, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebatis . {{c1::ēbātis, 2, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ebant . {{c1::ēbant, 3, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 e . {{c1::e, 2, sg, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 3 2 ite . {{c1::ite, 2, pl, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	8	
+reg verb: conj/prin part/ending: 4/3io 2 io . {{c1::iō, 1, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4 2 is . {{c1::īs, 2, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 it . {{c1::it, 3, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4 2 imus . {{c1::īmus, 1, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4 2 itis . {{c1::ītis, 2, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iunt . {{c1::iunt, 3, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 3io 2 is . {{c1::is, 2, sg, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 3io 2 imus . {{c1::imus, 1, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 3io 2 itis . {{c1::itis, 2, pl, present, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iam . {{c1::iam, 1, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 ies . {{c1::iēs, 2, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iet . {{c1::iet, 3, sg, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iemus . {{c1::iēmus, 1, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 ietis . {{c1::iētis, 2, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 ient . {{c1::ient, 3, pl, future, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebam . {{c1::iēbam, 1, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebas . {{c1::iēbās, 2, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebat . {{c1::iēbat, 3, sg, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebamus . {{c1::iēbāmus, 1, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebatis . {{c1::iēbātis, 2, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4/3io 2 iebant . {{c1::iēbant, 3, pl, imperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4 2 i . {{c1::ī, 2, sg, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 4 2 ite . {{c1::īte, 2, pl, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 3io 2 e . {{c1::e, 2, sg, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: 3io 2 ite . {{c1::ite, 2, pl, present, imperative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	10	
+reg verb: conj/prin part/ending: all 3 i . {{c1::ī, 1, sg, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 isti . {{c1::istī, 2, sg, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 it . {{c1::it, 3, sg, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 imus . {{c1::imus, 1, pl, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 istis . {{c1::istis, 2, pl, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erunt . {{c1::ērunt, 3, pl, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eram . {{c1::eram, 1, sg, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eras . {{c1::erās, 2, sg, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erat . {{c1::erat, 3, sg, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eramus . {{c1::erāmus, 1, pl, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eratis . {{c1::erātis, 2, pl, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erant . {{c1::erant, 3, pl, pluperfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 ere . {{c1::ēre, 3, pl, perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 ero . {{c1::erō, 1, sg, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eris . {{c1::eris, 2, sg, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erit . {{c1::erit, 3, sg, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erimus . {{c1::erimus, 1, pl, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 eritis . {{c1::eritis, 2, pl, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
+reg verb: conj/prin part/ending: all 3 erint . {{c1::erint, 3, pl, future perfect, indicative, active::macrons, person, number, tense, mood, and voice}}	Wheelock	12	
