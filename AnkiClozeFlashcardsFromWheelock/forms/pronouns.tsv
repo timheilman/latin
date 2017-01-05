@@ -44,7 +44,7 @@ Personal Pronoun: {{c1::véstrum}} . {{c2::M or F 2nd gen pl "of you"::gender(s)
 Personal Pronoun: {{c1::véstrī}} . {{c2::M or F 2nd gen pl (alt) "of you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::vṓbīs}} . {{c2::M or F 2nd dat or abl pl "to you/for you/by you/with you/from you"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::is}} . {{c2::M 3rd nom sg "he"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
-Personal Pronoun: {{c1::éa}} . {{c2::F 3rd nom sg "she"; N 3rd nom or acc pl::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Personal Pronoun: {{c1::éa}} . {{c2::F 3rd nom sg "she"; N 3rd nom or acc pl "they/them"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::id}} . {{c2::N 3rd nom or acc sg "it"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::éius}} . {{c2::M F N 3rd gen sg "of him/of her/of it/his/her/its"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::éī}} . {{c2::M F N 3rd dat sg "to/for him/her/it"; M 3rd nom pl "they"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
@@ -66,3 +66,6 @@ Personal Pronoun: {{c1::eundem}} . {{c2::M 3rd acc sg "the same man"::gender(s) 
 Personal Pronoun: {{c1::eandem}} . {{c2::F 3rd acc sg "the same woman"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::eōrundem}} . {{c2::M N 3rd gen pl "of the same men/things"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
 Personal Pronoun: {{c1::eārundem}} . {{c2::F 3rd gen pl "of the same women"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	
+Reflexive Pronoun: {{c1::suī}} . {{c2::M or F 3rd gen sg or pl "of himself/herself/itself/themselves"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	13	
+Reflexive Pronoun: {{c1::sibi}} . {{c2::M or F 3rd dat sg or pl "to/for himself/herself/itself/themselves"::gender(s) person case(s) number(s) translation(s)}}	Wheelock	13	
+Reflexive Pronoun: {{c1::sē}} . {{c2::M or F 3rd acc or abl sg or pl "himself/herself/itself/themselves or by/with/from himself/herself/itself/themselves"}}	Wheelock	13	
