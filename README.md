@@ -19,11 +19,12 @@ HTML-compliant.
 Failure to do either of these things can lead to the confusing
 behavior that duplicates are not detected at import despite that the
 newly-added notes are immediately detected as duplicates by the
-browser.
+browser, yet the spaced repetition tracking data remains associated
+with the original, not-updated, card(s).
 
 The long story follows.
 
-I maintain these notes canonically in tsv files, outside Anki and its
+I maintain these notes canonically in TSV files, outside Anki and its
 deck import/export and networked sharing features, because I knew,
 when starting at chapter one, that Latin was a large subject that would
 require a great many flashcards, but didn't know exactly what sorts of
@@ -41,7 +42,7 @@ whether a note is added OR an existing note is updated (in its
 non-Text fields) or ignored (when all fields from the candidate import
 note are identical to all fields in an existing note).  These two
 features enable the bulk-add, remove, and edit features (on non-Text
-fields only) because these canonical tsv files can be processed with
+fields only) because these canonical TSV files can be processed with
 common text-processing utilities like awk and emacs keyboard macros
 (among many more), and so long as the Text field remains the same, the
 updates to non-Text fields will be reflected upon reimport.  I've used
