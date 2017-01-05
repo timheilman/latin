@@ -25,7 +25,7 @@ The long story follows.
 
 I maintain these notes canonically in tsv files, outside Anki and its
 deck import/export and networked sharing features, because I knew,
-when starting at chapter 1, that Latin was a large subject that would
+when starting at chapter one, that Latin was a large subject that would
 require a great many flashcards, but didn't know exactly what sorts of
 cards I was going to wind up with, nor how I would wind up wanting to
 categorize them later.  Thus I found myself craving the option to add
@@ -59,7 +59,7 @@ space bar, whereas a normal (breaking) space was entered in the TSV.
 Exporting the notes with the non-breaking spaces and checking "Allow
 HTML in fields" allowed me to resume with the duplicate detection
 functioning, until a stray ampersand wound up imported without HTML
-escaping from a different file, for which I hadn't deslected "Allow
+escaping from a different file, for which I hadn't deselected "Allow
 HTML in Fields".  Once another edit was made in the Anki browser's
 note editor to the note with the ampersand, that ampersand was
 HTML-escaped and duplicate detection at import again broke.
