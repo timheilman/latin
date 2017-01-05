@@ -5,7 +5,7 @@ _Wheelock's Latin_ and in a format for import to the best-in-class
 spaced repetition flashcard software, Anki.  See http://ankisrs.net
 . The format used is TSV for Cloze import.
 
-WARNING: maintaining these notes in TSV carries with it some gotchas. 
+WARNING: maintaining these notes in TSV carries with it some gotchas.
 
 1. Use the note editor of the Anki browser ONLY by "paste"ing to the
 entirety of the field.  That is, all edits to fields done within the
@@ -21,6 +21,9 @@ behavior that duplicates are not detected at import despite that the
 newly-added notes are immediately detected as duplicates by the
 browser, yet the spaced repetition tracking data remains associated
 with the original, not-updated, card(s).
+
+It may be better to treat decks as canonical and use the addon here:
+https://ankiweb.net/shared/info/291119185 .
 
 The long story follows.
 
