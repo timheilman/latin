@@ -1,22 +1,22 @@
-{{c1::dīvítiae, dīvítiā́rum}} has gender {{c2::f. pl.}} and means {{c3::riches, wealth}}	Wheelock	13	
-{{c1::fáctum, fáctī}} has gender {{c2::n}} and means {{c3::deed, act, achievement}} with English derivatives {{c1::fact, factual, faction, feat; cf. faciō}}	Wheelock	13	
-{{c1::sígnum, sígnī}} has gender {{c2::n}} and means {{c3::sign, signal, indication; seal}} with English derivatives {{c1::assign, consign, countersign, design, ensign, insignia, resign, seal, signet}}	Wheelock	13	
-{{c1::ípse, ípsa, ípsum}} is a/an {{c2::intensive pron.}} and means {{c3::myself, ourselves, yourself, yourselves, himself, herself, itself, themselves; the very, the actual}} with English derivatives {{c1::ipso facto, solipsistic}}	Wheelock	13	
-{{c1::quísque, quídque (gen. cuiúsque; dat. cuíque)}} is a/an {{c2::indefinite pron.}} and means {{c3::each one, each person, each thing}}	Wheelock	13	
-{{c1::súī}} is a/an {{c2::reflexive pron. of the 3rd person}} and means {{c3::himself, herself, itself, themselves}} with English derivatives {{c1::suicide, per se}}	Wheelock	13	
-{{c1::dóctus, dócta, dóctum}} means {{c2::taught, learned, skilled}} with English derivatives {{c1::doctor, doctorate, doctrine, indoctrinate; cf. doceō}}	Wheelock	13	
-{{c1::fortūnā́tus, fortūnā́ta, fortūnā́tum}} means {{c2::lucky, fortunate, happy}} with English derivatives {{c1::unfortunate; cf. fortūna}}	Wheelock	13	
-{{c1::súus, súa, súum}} is a/an {{c2::reflexive possessive adj. of 3rd person}} and means {{c3::his own, her own, its own, their own}} with English derivatives {{c1::sui generis}}	Wheelock	13	
-{{c1::nam}} is a/an {{c2::conj.}} and means {{c3::for}}	Wheelock	13	
-{{c1::ánte}} as a/an {{c1::prep. + acc.}} means {{c2::before (in place or time), in front of}} with English derivatives {{c1::antebellum, antedate, ante-room, anterior, antediluvian, A.M. = ante merīdiem/"before midday," advance, advantage}}	Wheelock	13	
-{{c1::ánte}} as a/an {{c1::adv.}} means {{c2::before (previously)}} with English derivatives {{c1::antebellum, antedate, ante-room, anterior, antediluvian, A.M. = ante merīdiem/"before midday," advance, advantage}}	Wheelock	13	
-{{c1::anti}} (Greek) means {{c2::against}}	Wheelock	13	
-{{c1::per}} as a/an {{c1::prep. + acc.}} means {{c2::through}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	
-{{c1::per}} as a/an {{c1::introducer of reflexive pron.}} means {{c2::by}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	
-{{c1::per}} as a/an {{c1::prefix}}, {{c1::assimilated to pel- before forms beginning with l-}} means {{c2::through, through and through = thoroughly, completely, very}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	
-{{c1::ṓlim}} is a/an {{c2::adv.}} and means {{c3::once (upon a time), long ago, formerly; some day, in the future}}	Wheelock	13	
-{{c1::áltus, álta, áltum}} means {{c2::tall, high}}	Wheelock	13	
-{{c1::álō, álere, áluī, áltum}} means {{c2::to nourish, support, sustain, increase; cherish}} with English derivatives {{c1::aliment, alimentary, alimony, coalesce, adolescence}}	Wheelock	13	
-{{c1::dī́ligō, dīlígere, dīlḗxī, dīlḗctum}} means {{c2::to esteem, love}} with English derivatives {{c1::diligent, diligence}}	Wheelock	13	
-{{c1::iúngō, iúngere, iū́nxī, iū́nctum}} means {{c2::to join}} with English derivatives {{c1::join, joint, junction, juncture, adjunct, conjunction, enjoin, injunction, subjunctive}}	Wheelock	13	
-{{c1::stō, stā́re, stétī, státum}} means {{c2::to stand, stand still or firm}} with English derivatives {{c1::stable, state, station, statue, stature, statute, establish, instant, instate, reinstate, stay}}	Wheelock	13	
+{{c1::dīvítiae, dīvítiā́rum}} has gender {{c2::f. pl.}} and means {{c3::riches, wealth}}	Wheelock	13	noun
+{{c1::fáctum, fáctī}} has gender {{c2::n}} and means {{c3::deed, act, achievement}} with English derivatives {{c1::fact, factual, faction, feat; cf. faciō}}	Wheelock	13	noun
+{{c1::sígnum, sígnī}} has gender {{c2::n}} and means {{c3::sign, signal, indication; seal}} with English derivatives {{c1::assign, consign, countersign, design, ensign, insignia, resign, seal, signet}}	Wheelock	13	noun
+{{c1::ípse, ípsa, ípsum}} is a/an {{c2::intensive pron.}} and means {{c3::myself, ourselves, yourself, yourselves, himself, herself, itself, themselves; the very, the actual}} with English derivatives {{c1::ipso facto, solipsistic}}	Wheelock	13	pronoun
+{{c1::quísque, quídque (gen. cuiúsque; dat. cuíque)}} is a/an {{c2::indefinite pron.}} and means {{c3::each one, each person, each thing}}	Wheelock	13	pronoun
+{{c1::súī}} is a/an {{c2::reflexive pron. of the 3rd person}} and means {{c3::himself, herself, itself, themselves}} with English derivatives {{c1::suicide, per se}}	Wheelock	13	reflexive pronoun
+{{c1::dóctus, dócta, dóctum}} means {{c2::taught, learned, skilled}} with English derivatives {{c1::doctor, doctorate, doctrine, indoctrinate; cf. doceō}}	Wheelock	13	adjective
+{{c1::fortūnā́tus, fortūnā́ta, fortūnā́tum}} means {{c2::lucky, fortunate, happy}} with English derivatives {{c1::unfortunate; cf. fortūna}}	Wheelock	13	adjective
+{{c1::súus, súa, súum}} is a/an {{c2::reflexive possessive adj. of 3rd person}} and means {{c3::his own, her own, its own, their own}} with English derivatives {{c1::sui generis}}	Wheelock	13	reflexive possessive adjective
+{{c1::nam}} is a/an {{c2::conj.}} and means {{c3::for}}	Wheelock	13	conjunction
+{{c1::ánte}} as a/an {{c1::prep. + acc.}} means {{c2::before (in place or time), in front of}} with English derivatives {{c1::antebellum, antedate, ante-room, anterior, antediluvian, A.M. = ante merīdiem/"before midday," advance, advantage}}	Wheelock	13	preposition
+{{c1::ánte}} as a/an {{c1::adv.}} means {{c2::before (previously)}} with English derivatives {{c1::antebellum, antedate, ante-room, anterior, antediluvian, A.M. = ante merīdiem/"before midday," advance, advantage}}	Wheelock	13	adverb
+{{c1::anti}} (Greek) means {{c2::against}}	Wheelock	13	Greek
+{{c1::per}} as a/an {{c1::prep. + acc.}} means {{c2::through}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	preposition
+{{c1::per}} as a/an {{c1::introducer of reflexive pron.}} means {{c2::by}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	preposition
+{{c1::per}} as a/an {{c1::prefix}}, {{c1::assimilated to pel- before forms beginning with l-}} means {{c2::through, through and through = thoroughly, completely, very}} with English derivatives {{c1::perchance, perforce, perhaps, perceive, perfect, perspire, percolate, percussion, perchloride, pellucid}}	Wheelock	13	prefix
+{{c1::ṓlim}} is a/an {{c2::adv.}} and means {{c3::once (upon a time), long ago, formerly; some day, in the future}}	Wheelock	13	adverb
+{{c1::áltus, álta, áltum}} means {{c2::tall, high}}	Wheelock	13	adjective
+{{c1::álō, álere, áluī, áltum}} means {{c2::to nourish, support, sustain, increase; cherish}} with English derivatives {{c1::aliment, alimentary, alimony, coalesce, adolescence}}	Wheelock	13	verb
+{{c1::dī́ligō, dīlígere, dīlḗxī, dīlḗctum}} means {{c2::to esteem, love}} with English derivatives {{c1::diligent, diligence}}	Wheelock	13	verb
+{{c1::iúngō, iúngere, iū́nxī, iū́nctum}} means {{c2::to join}} with English derivatives {{c1::join, joint, junction, juncture, adjunct, conjunction, enjoin, injunction, subjunctive}}	Wheelock	13	verb
+{{c1::stō, stā́re, stétī, státum}} means {{c2::to stand, stand still or firm}} with English derivatives {{c1::stable, state, station, statue, stature, statute, establish, instant, instate, reinstate, stay}}	Wheelock	13	verb

@@ -1,23 +1,23 @@
-{{c1::áger, ágrī}} has gender {{c2::m}} and means {{c3::field, farm}} with English derivatives {{c1::agrarian, agriculture, agronomy}}	Wheelock	3	
-{{c1::agrícola, agrícolae}} has gender {{c2::m}} and means {{c3::farmer}} with English derivatives {{c1::none, though cf ager}}	Wheelock	3	
-{{c1::amī́cus, amī́cī}} has gender {{c2::m}} and means {{c3::friend}} with English derivatives {{c1::amicable, amiable, amity; cf amō}}	Wheelock	3	
-{{c1::amī́ca, amī́cae}} has gender {{c2::f}} and means {{c3::friend}} with English derivatives {{c1::amicable, amiable, amity; cf amō}}	Wheelock	3	
-{{c1::fḗmina, fḗminae}} has gender {{c2::f}} and means {{c3::woman}} with English derivatives {{c1::female, feminine, femininity}}	Wheelock	3	
-{{c1::fī́lia, fī́liae; dat and abl pl fīliā́bus}} has gender {{c2::f}} and means {{c3::daughter}} with English derivatives {{c1::filiation, affiliation, affiliate, filial}}	Wheelock	3	
-{{c1::fī́lius, fī́liī}} has gender {{c2::m}} and means {{c3::son}} with English derivatives {{c1::filiation, affiliation, affiliate, filial}}	Wheelock	3	
-{{c1::númerus, númerī}} has gender {{c2::m}} and means {{c3::number}} with English derivatives {{c1::numeral, innumerable, enumerate}}	Wheelock	3	
-{{c1::pópulus, pópulī}} has gender {{c2::m}} and means {{c3::the people, a people, a nation}} with English derivatives {{c1::populace, population, popularity, popularize, populous}}	Wheelock	3	
-{{c1::púer, púerī}} has gender {{c2::m}} and means {{c3::boy or pl. children}} with English derivatives {{c1::puerile, puerility, puerperous}}	Wheelock	3	
-{{c1::sapiéntia, sapiéntiae}} has gender {{c2::f}} and means {{c3::wisdom}} with English derivatives {{c1::sapience, sapient, sage, savant}}	Wheelock	3	
-{{c1::vir, vírī}} has gender {{c2::m}} and means {{c3::man, hero}} with English derivatives {{c1::virtue, virile, triumvirate; not virulent}}	Wheelock	3	
-{{c1::avā́rus, avā́ra, avā́rum}} means {{c2::greedy, avaricious}} with English derivatives {{c1::avarice, avariciousness, avid}}	Wheelock	3	
-{{c1::paúcī, paúcae, paúca}} means {{c2::usually pl. few, a few}} with English derivatives {{c1::paucity, pauciloquent, poco}}	Wheelock	3	
-{{c1::Rōmā́nus, Rōmā́na, Rōmā́num}} means {{c2::Roman}} with English derivatives {{c1::Romance, romantic, romanticism, Romanesque, Romania}}	Wheelock	3	
-{{c1::dē}} can be a/an {{c2::prep+abl}} or a/an {{c2::prefix}}	Wheelock	3	
-{{c1::dē}} as a/an {{c1::prep+abl}} means {{c2::down from, from; concerning, about}}	Wheelock	3	
-{{c1::dē}} as a/an {{c1::prefix}} means {{c2::down, away, aside, out, off}} with English derivatives {{c1::demote, from dē-moveō; decline, descend}}	Wheelock	3	
-{{c1::in}} as a/an {{c1::prep + abl, with verbs of rest}} or {{c1::prefix}} means {{c2::in, on}} with English derivatives {{c1::induce, inscribe, invoke}}	Wheelock	3	
-{{c1::hódiē}} is a/an {{c3::adverb}} and means {{c2::today}} with English derivatives {{c1::hodiernal}}	Wheelock	3	
-{{c1::sémper}} is a/an {{c3::adverb}} and means {{c2::always}} with English derivatives {{c1::sempiternal}}	Wheelock	3	
-{{c1::hábeō, habḗre, hábuī, hábitum}} means {{c2::to have, hold, possess; consider, regard}} with English derivatives {{c1::in-habit and in-hibit, "hold in"; ex-hibit, "hold forth"; habit, habitat}}	Wheelock	3	
-{{c1::sátiō, satiā́re, satiā́vī, satiā́tum}} means {{c2::to satisfy, sate}} with English derivatives {{c1::satiate, insatiable, satiety, satisfaction}}	Wheelock	3	
+{{c1::áger, ágrī}} has gender {{c2::m}} and means {{c3::field, farm}} with English derivatives {{c1::agrarian, agriculture, agronomy}}	Wheelock	3	noun
+{{c1::agrícola, agrícolae}} has gender {{c2::m}} and means {{c3::farmer}} with English derivatives {{c1::none, though cf ager}}	Wheelock	3	noun
+{{c1::amī́cus, amī́cī}} has gender {{c2::m}} and means {{c3::friend}} with English derivatives {{c1::amicable, amiable, amity; cf amō}}	Wheelock	3	noun
+{{c1::amī́ca, amī́cae}} has gender {{c2::f}} and means {{c3::friend}} with English derivatives {{c1::amicable, amiable, amity; cf amō}}	Wheelock	3	noun
+{{c1::fḗmina, fḗminae}} has gender {{c2::f}} and means {{c3::woman}} with English derivatives {{c1::female, feminine, femininity}}	Wheelock	3	noun
+{{c1::fī́lia, fī́liae; dat and abl pl fīliā́bus}} has gender {{c2::f}} and means {{c3::daughter}} with English derivatives {{c1::filiation, affiliation, affiliate, filial}}	Wheelock	3	noun
+{{c1::fī́lius, fī́liī}} has gender {{c2::m}} and means {{c3::son}} with English derivatives {{c1::filiation, affiliation, affiliate, filial}}	Wheelock	3	noun
+{{c1::númerus, númerī}} has gender {{c2::m}} and means {{c3::number}} with English derivatives {{c1::numeral, innumerable, enumerate}}	Wheelock	3	noun
+{{c1::pópulus, pópulī}} has gender {{c2::m}} and means {{c3::the people, a people, a nation}} with English derivatives {{c1::populace, population, popularity, popularize, populous}}	Wheelock	3	noun
+{{c1::púer, púerī}} has gender {{c2::m}} and means {{c3::boy or pl. children}} with English derivatives {{c1::puerile, puerility, puerperous}}	Wheelock	3	noun
+{{c1::sapiéntia, sapiéntiae}} has gender {{c2::f}} and means {{c3::wisdom}} with English derivatives {{c1::sapience, sapient, sage, savant}}	Wheelock	3	noun
+{{c1::vir, vírī}} has gender {{c2::m}} and means {{c3::man, hero}} with English derivatives {{c1::virtue, virile, triumvirate; not virulent}}	Wheelock	3	noun
+{{c1::avā́rus, avā́ra, avā́rum}} means {{c2::greedy, avaricious}} with English derivatives {{c1::avarice, avariciousness, avid}}	Wheelock	3	adjective
+{{c1::paúcī, paúcae, paúca}} means {{c2::usually pl. few, a few}} with English derivatives {{c1::paucity, pauciloquent, poco}}	Wheelock	3	adjective
+{{c1::Rōmā́nus, Rōmā́na, Rōmā́num}} means {{c2::Roman}} with English derivatives {{c1::Romance, romantic, romanticism, Romanesque, Romania}}	Wheelock	3	adjective
+{{c1::dē}} can be a/an {{c2::prep+abl}} or a/an {{c2::prefix}}	Wheelock	3	preposition prefix
+{{c1::dē}} as a/an {{c1::prep+abl}} means {{c2::down from, from; concerning, about}}	Wheelock	3	preposition
+{{c1::dē}} as a/an {{c1::prefix}} means {{c2::down, away, aside, out, off}} with English derivatives {{c1::demote, from dē-moveō; decline, descend}}	Wheelock	3	prefix
+{{c1::in}} as a/an {{c1::prep + abl, with verbs of rest}} or {{c1::prefix}} means {{c2::in, on}} with English derivatives {{c1::induce, inscribe, invoke}}	Wheelock	3	preposition prefix
+{{c1::hódiē}} is a/an {{c3::adverb}} and means {{c2::today}} with English derivatives {{c1::hodiernal}}	Wheelock	3	adverb
+{{c1::sémper}} is a/an {{c3::adverb}} and means {{c2::always}} with English derivatives {{c1::sempiternal}}	Wheelock	3	adverb
+{{c1::hábeō, habḗre, hábuī, hábitum}} means {{c2::to have, hold, possess; consider, regard}} with English derivatives {{c1::in-habit and in-hibit, "hold in"; ex-hibit, "hold forth"; habit, habitat}}	Wheelock	3	verb
+{{c1::sátiō, satiā́re, satiā́vī, satiā́tum}} means {{c2::to satisfy, sate}} with English derivatives {{c1::satiate, insatiable, satiety, satisfaction}}	Wheelock	3	verb

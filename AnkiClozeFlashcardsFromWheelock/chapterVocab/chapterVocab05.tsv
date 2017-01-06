@@ -1,25 +1,25 @@
-{{c1::adulēscéntia, adulēscéntiae}} has gender {{c2::f}} and means {{c3::youth, young manhood; youthfulness}} with English derivatives {{c1::adolescence, adolescent}}	Wheelock	5	
-{{c1::(sg) ánimus, ánimī}} has gender {{c2::m}} and means {{c3::soul, spirit, mind}} with English derivatives {{c1::animus, animosity, magnanimous, unanimous, pusillanimous}}	Wheelock	5	
-{{c1::(pl) ánimī, animṓrum}} has gender {{c2::m}} and means {{c3::high spirits, pride, courage}} with English derivatives {{c1::animus, animosity, magnanimous, unanimous, pusillanimous}}	Wheelock	5	
-{{c1::caélum, caélī}} has gender {{c2::n}} and means {{c3::sky, heaven}} with English derivatives {{c1::ceiling, celestial, Celeste, cerulean}}	Wheelock	5	
-{{c1::cúlpa, cúlpae}} has gender {{c2::f}} and means {{c3::fault, blame}} with English derivatives {{c1::cf culpō; culpable, culprit, exculpate, inculpate}}	Wheelock	5	
-{{c1::glṓria, glṓriae}} has gender {{c2::f}} and means {{c3::glory, fame}} with English derivatives {{c1::glorify, glorification, glorious, inglorious}}	Wheelock	5	
-{{c1::vérbum, vérbī}} has gender {{c2::n}} and means {{c3::word}} with English derivatives {{c1::verb, adverb, verbal, verbiage, verbose, proverb}}	Wheelock	5	
-{{c1::tē}} is in the case(s) {{c3::abl. and acc.}} and number(s) {{c3::sg.}} and means {{c2::you, yourself}} cf {{c1::mē}}	Wheelock	5	
-{{c1::lī́ber, lī́bera, lī́berum}} means {{c2::free}} with English derivatives {{c1::liberal, liberality, libertine}}	Wheelock	5	
-{{c1::nóster, nóstra, nóstrum}} means {{c2::our, ours}} with English derivatives {{c1::nostrum, paternoster}}	Wheelock	5	
-{{c1::púlcher, púlchra, púlchrum}} means {{c2::beautiful, handsome; fine}} with English derivatives {{c1::pulchritude, pulchritudinous}}	Wheelock	5	
-{{c1::sā́nus, sā́na, sā́num}} means {{c2::sound, healthy, sane}} with English derivatives {{c1::sanity, sanitary, sanitation, sanitarium, insane}}	Wheelock	5	
-{{c1::cḗnō, cēnā́re, cēnā́vī, cēnā́tum}} means {{c2::to dine}} with English derivatives {{c1::cenacle}}	Wheelock	5	
-{{c1::cúlpō, culpā́re, culpā́vī, culpā́tum}} means {{c2::to blame, censure}} with English derivatives {{c1::cf. culpa}}	Wheelock	5	
-{{c1::máneō, manḗre, mā́nsī, mā́nsum or remáneō, remanḗre, remā́nsī, remā́nsum}} means {{c2::to remain, stay, stay behind, abide, continue}} with English derivatives {{c1::mansion, manor, permanent, remnant, immanent -- do not confuse with "imminent"}}	Wheelock	5	
-{{c1::súperō, superā́re, superā́vī, superā́tum}} means {{c2::to be above, have the upper hand, surpass; overcome, conquer}} with English derivatives {{c1::superable, insuperable}}	Wheelock	5	
-{{c1::súper}} is a/an {{c3::adv. and prep. + abl. or acc.}}, means {{c2::above}} with English derivatives {{c1::superable, insuperable}}	Wheelock	5	
-{{c1::ígitur}} is a/an {{c2::postpositive conjunction}} and means {{c3::therefore, consequently}}	Wheelock	5	
-{{c1::-ne}} appears {{c2::attached to the first word of a sentence}} and means {{c3::that the sentence is a question whose answer is uncertain}}	Wheelock	5	
-{{c1::própter}} is a/an {{c2::prep. + acc.}} and means {{c3::on account of, because of}} with English derivatives {{c1::post hoc ergo propter hoc}}	Wheelock	5	
-{{c1::crās}} is a/an {{c2::adv.}} and means {{c3::tomorrow}}	Wheelock	5	
-{{c1::heri}} is a/an {{c2::adv.}} and means {{c3::yesterday}}	Wheelock	5	
-{{c1::quándō}} is a/an {{c2::interrog. adv.}} and a/an {{c2::rel. adv.}} and a/an {{c2::conj.}} and means {{c3::when}}, or {{c3::if ever}} when {{c3::preceded with sī}}	Wheelock	5	
-{{c1::sátis}} is a/an {{c2::indecl. noun, adj., and adv.}} and means {{c3::enough, sufficient(-ly)}} with English derivatives {{c1::cf satiō; satisfy, satisfactory, satiate, insatiable, sate, assets (from ad, up to + satis)}}	Wheelock	5	
-{{c1::tum}} is a/an {{c2::adv.}} and means {{c3::then, at that time; thereupon, in the next place}}	Wheelock	5	
+{{c1::adulēscéntia, adulēscéntiae}} has gender {{c2::f}} and means {{c3::youth, young manhood; youthfulness}} with English derivatives {{c1::adolescence, adolescent}}	Wheelock	5	noun
+{{c1::(sg) ánimus, ánimī}} has gender {{c2::m}} and means {{c3::soul, spirit, mind}} with English derivatives {{c1::animus, animosity, magnanimous, unanimous, pusillanimous}}	Wheelock	5	noun
+{{c1::(pl) ánimī, animṓrum}} has gender {{c2::m}} and means {{c3::high spirits, pride, courage}} with English derivatives {{c1::animus, animosity, magnanimous, unanimous, pusillanimous}}	Wheelock	5	noun
+{{c1::caélum, caélī}} has gender {{c2::n}} and means {{c3::sky, heaven}} with English derivatives {{c1::ceiling, celestial, Celeste, cerulean}}	Wheelock	5	noun
+{{c1::cúlpa, cúlpae}} has gender {{c2::f}} and means {{c3::fault, blame}} with English derivatives {{c1::cf culpō; culpable, culprit, exculpate, inculpate}}	Wheelock	5	noun
+{{c1::glṓria, glṓriae}} has gender {{c2::f}} and means {{c3::glory, fame}} with English derivatives {{c1::glorify, glorification, glorious, inglorious}}	Wheelock	5	noun
+{{c1::vérbum, vérbī}} has gender {{c2::n}} and means {{c3::word}} with English derivatives {{c1::verb, adverb, verbal, verbiage, verbose, proverb}}	Wheelock	5	noun
+{{c1::tē}} is in the case(s) {{c3::abl. and acc.}} and number(s) {{c3::sg.}} and means {{c2::you, yourself}} cf {{c1::mē}}	Wheelock	5	pronoun
+{{c1::lī́ber, lī́bera, lī́berum}} means {{c2::free}} with English derivatives {{c1::liberal, liberality, libertine}}	Wheelock	5	adjective
+{{c1::nóster, nóstra, nóstrum}} means {{c2::our, ours}} with English derivatives {{c1::nostrum, paternoster}}	Wheelock	5	adjective
+{{c1::púlcher, púlchra, púlchrum}} means {{c2::beautiful, handsome; fine}} with English derivatives {{c1::pulchritude, pulchritudinous}}	Wheelock	5	adjective
+{{c1::sā́nus, sā́na, sā́num}} means {{c2::sound, healthy, sane}} with English derivatives {{c1::sanity, sanitary, sanitation, sanitarium, insane}}	Wheelock	5	adjective
+{{c1::cḗnō, cēnā́re, cēnā́vī, cēnā́tum}} means {{c2::to dine}} with English derivatives {{c1::cenacle}}	Wheelock	5	verb
+{{c1::cúlpō, culpā́re, culpā́vī, culpā́tum}} means {{c2::to blame, censure}} with English derivatives {{c1::cf. culpa}}	Wheelock	5	verb
+{{c1::máneō, manḗre, mā́nsī, mā́nsum or remáneō, remanḗre, remā́nsī, remā́nsum}} means {{c2::to remain, stay, stay behind, abide, continue}} with English derivatives {{c1::mansion, manor, permanent, remnant, immanent -- do not confuse with "imminent"}}	Wheelock	5	verb
+{{c1::súperō, superā́re, superā́vī, superā́tum}} means {{c2::to be above, have the upper hand, surpass; overcome, conquer}} with English derivatives {{c1::superable, insuperable}}	Wheelock	5	verb
+{{c1::súper}} is a/an {{c3::adv. and prep. + abl. or acc.}}, means {{c2::above}} with English derivatives {{c1::superable, insuperable}}	Wheelock	5	adverb preposition
+{{c1::ígitur}} is a/an {{c2::postpositive conjunction}} and means {{c3::therefore, consequently}}	Wheelock	5	conjunction
+{{c1::-ne}} appears {{c2::attached to the first word of a sentence}} and means {{c3::that the sentence is a question whose answer is uncertain}}	Wheelock	5	grammar
+{{c1::própter}} is a/an {{c2::prep. + acc.}} and means {{c3::on account of, because of}} with English derivatives {{c1::post hoc ergo propter hoc}}	Wheelock	5	preposition
+{{c1::crās}} is a/an {{c2::adv.}} and means {{c3::tomorrow}}	Wheelock	5	adverb
+{{c1::heri}} is a/an {{c2::adv.}} and means {{c3::yesterday}}	Wheelock	5	adverb
+{{c1::quándō}} is a/an {{c2::interrog. adv.}} and a/an {{c2::rel. adv.}} and a/an {{c2::conj.}} and means {{c3::when}}, or {{c3::if ever}} when {{c3::preceded with sī}}	Wheelock	5	adverb
+{{c1::sátis}} is a/an {{c2::indecl. noun, adj., and adv.}} and means {{c3::enough, sufficient(-ly)}} with English derivatives {{c1::cf satiō; satisfy, satisfactory, satiate, insatiable, sate, assets (from ad, up to + satis)}}	Wheelock	5	noun adjective adverb
+{{c1::tum}} is a/an {{c2::adv.}} and means {{c3::then, at that time; thereupon, in the next place}}	Wheelock	5	adverb
