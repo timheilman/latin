@@ -1,0 +1,68 @@
+reg verb: conj/prin part/ending: 3 2 eris . {{c1::1. eris 2. ēris, 2, sg, 1. present 2. future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ar . {{c1::ar, 1, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 etur . {{c1::ētur, 3, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 emur . {{c1::ēmur, 1, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 emini . {{c1::ēminī, 2, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 entur . {{c1::entur, 3, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebar . {{c1::ēbar, 1, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebare . {{c1::ēbāre, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebaris . {{c1::ēbāris, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebatur . {{c1::ēbātur, 3, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebamur . {{c1::ēbāmur, 1, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebamini . {{c1::ēbāminī, 2, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ebantur . {{c1::ēbantur, 3, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 or . {{c1::or, 1, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 untur . {{c1::untur, 3, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 iris . {{c1::īris, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 itur . {{c1::ītur, 3, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 imur . {{c1::īmur, 1, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 imini . {{c1::īminī, 2, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 iri . {{c1::īrī, n/a, n/a, present, infinitive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4 2 ire . {{c1::īre, 1. 2 2. n/a, 1. sg 2. n/a, present, 1. indicative 2. infinitive, 1. passive 2. active::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3io 2 ere . {{c1::ere, 1. 2 2. n/a, 1. sg 2. n/a, present, 1. indicative 2. infinitive, 1. passive 2. active::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3 2 ere . {{c1::1. ere 2. ere 3. ēre, 1. 2 2. n/a 3. 2, 1. sg 2. n/a 3. sg, 1. present 2. present 3. future, 1. indicative 2. infinitive 3. indicative, 1. passive 2. active 3. passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3/3io 2 itur . {{c1::itur, 3, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3/3io 2 imur . {{c1::imur, 1, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3/3io 2 imini . {{c1::iminī, 2, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3/3io 2 i . {{c1::ī, n/a, n/a, present, infinitive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 3io 2 eris . {{c1::eris, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iar . {{c1::iar, 1, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iere . {{c1::iēre, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 ieris . {{c1::iēris, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 ietur . {{c1::iētur, 3, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iemur . {{c1::iēmur, 1, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iemini . {{c1::iēminī, 2, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 ientur . {{c1::ientur, 3, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebar . {{c1::iēbar, 1, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebare . {{c1::iēbāre, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebaris . {{c1::iēbāris, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebatur . {{c1::iēbātur, 3, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebamur . {{c1::iēbāmur, 1, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebamini . {{c1::iēbāminī, 2, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iebantur . {{c1::iēbantur, 3, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 ior . {{c1::ior, 1, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+reg verb: conj/prin part/ending: 4/3io 2 iuntur . {{c1::iuntur, 3, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	21	
+{{c1::cása, cásae}} has gender {{c2::f}} and means {{c3::house, cottage, hut}} with English derivatives {{c1::casino}}	Wheelock	21	noun
+{{c1::caúsa, caúsae}} has gender {{c2::f}} and means {{c3::cause, reason; case, situation}} with English derivatives {{c1::accuse, because, excuse}}	Wheelock	21	noun
+{{c1::caúsā, abl. with a preceding gen.}} has gender {{c2::f}} and means {{c3::for the sake of, on account of}} with English derivatives {{c1::accuse, because, excuse}}	Wheelock	21	noun
+{{c1::fenéstra, fenéstrae}} has gender {{c2::f}} and means {{c3::window}} with English derivatives {{c1::fenestrated, fenestration, fenestella, defenestration}}	Wheelock	21	noun
+{{c1::fī́nis, fī́nis}} has gender {{c2::m}} and means {{c3::end, limit, boundary; purpose}} with English derivatives {{c1::affinity, confine, define, final, finale, finance, fine, finesse, finial, finicky, finish, finite, infinite, paraffin, refine}}	Wheelock	21	noun
+{{c1::fī́nēs, fī́nium}} has gender {{c2::f}} and means {{c3::boundaries, territory}} with English derivatives {{c1::affinity, confine, define, final, finale, finance, fine, finesse, finial, finicky, finish, finite, infinite, paraffin, refine}}	Wheelock	21	noun
+{{c1::gēns, géntis}} has gender {{c2::f}} and means {{c3::clan, race, nation, people}} with English derivatives {{c1::gentile, gentle, genteel, gentry; cf genus}}	Wheelock	21	noun
+{{c1::múndus, múndī}} has gender {{c2::m}} and means {{c3::world, universe}} with English derivatives {{c1::mundane, extramundane, demimonde}}	Wheelock	21	noun
+{{c1::nā́vis, nā́vis}} has gender {{c2::f}} and means {{c3::ship, boat}} with English derivatives {{c1::naval, navy, navigate, nave; cf nāvigāre, nauta}}	Wheelock	21	noun
+{{c1::sálūs, salū́tis}} has gender {{c2::f}} and means {{c3::health, safety; greeting}} with English derivatives {{c1::salubrious, salutary, salutation, salute, salutatorian, salutatory; cf. salveō, salvus}}	Wheelock	21	noun
+{{c1::Trṓia, Trṓiae}} has gender {{c2::f}} and means {{c3::Troy}} with English derivatives {{c1::Trojan}}	Wheelock	21	noun
+{{c1::vīcī́nus, vīcī́nī}} has gender {{c2::m}} and means {{c3::neighbor}} with English derivatives {{c1::vicinity, vicinal, vicinage}}	Wheelock	21	noun
+{{c1::vīcī́na, vīcī́nae}} has gender {{c2::f}} and means {{c3::neighbor}} with English derivatives {{c1::vicinity, vicinal, vicinage}}	Wheelock	21	noun
+{{c1::vúlgus, vúlgī}} has gender {{c2::n (sometimes m)}} and means {{c3::the common people, mob, rabble}} with English derivatives {{c1::vulgar, vulgarity, vulgarize, vulgate, divulge}}	Wheelock	21	noun
+{{c1::ásper, áspera, ásperum}} means {{c3::rough, harsh}} with English derivatives {{c1::asperity, exasperate, exasperation}}	Wheelock	21	adjective
+{{c1::átque (before consonants, vowels, and h) / ac (before non-h consonants only)}} is a/an {{c4::conj}} and means {{c3::and also, and even, and in fact}}	Wheelock	21	conjugation
+{{c1::íterum}} is a/an {{c4::adv}} and means {{c3::again, a second time}} with English derivatives {{c1::iterate, iterative, reiterate, reiteration}}	Wheelock	21	adverb
+{{c1::contíneō, continḗre, contínuī, conténtum}} means {{c3::to hold together, contain, keep, enclose, restrain}} with English derivatives {{c1::content, discontent, malcontent, continual; cf. teneō}}	Wheelock	21	verb
+{{c1::iúbeō, iubḗre, iússī, iússum}} means {{c3::to bid, order, command}} with English derivatives {{c1::jussive}}	Wheelock	21	verb
+{{c1::labṓrō, labōrā́re, labōrā́vī, labōrā́tum}} means {{c3::to labor; be in distress}} with English derivatives {{c1::laboratory, laborer, belabor; cf labor}}	Wheelock	21	verb
+{{c1::rápiō, rápere, rápuī, ráptum}} means {{c3::to seize, snatch, carry away}} with English derivatives {{c1::rapacious, rapid, rapine, rapture, ravage, ravish; cf. ēripere, to snatch away}}	Wheelock	21	verb
+{{c1::relínquō, relínquere, relī́quī, relíctum}} means {{c3::to leave behind, leave, abandon, desert}} with English derivatives {{c1::relinquish, reliquary, relict, relic, delinquent, dereliction}}	Wheelock	21	verb
+{{c1::scíō, scī́re, scī́vī, scī́tum}} means {{c3::to know}} with English derivatives {{c1::science, scientific, conscience, conscious, prescience, scilicet; cf. scientia, nescīre, to not know, be ignorant of}}	Wheelock	21	verb
+{{c1::tángō, tángere, tétigī, tā́ctum}} means {{c3::to touch}} with English derivatives {{c1::tangent, tangible, tact, tactile, contact, contagious, contiguous, contingent, integer, taste, tax}}	Wheelock	21	verb

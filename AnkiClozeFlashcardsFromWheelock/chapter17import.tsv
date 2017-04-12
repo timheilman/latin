@@ -1,0 +1,29 @@
+Relative Pronoun: {{c1::cui}} . {{c2::MFN dat sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::cuius}} . {{c2::MFN gen sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quā}} . {{c2::F abl sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quae}} . {{c2::F nom sg, pl *OR* N nom, acc pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quam}} . {{c2::F acc sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quārum}} . {{c2::F gen pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quās}} . {{c2::F acc pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quem}} . {{c2::M acc sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quī}} . {{c2::M nom sg, pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quibus}} . {{c2::MFN dat, abl pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quō}} . {{c2::MN abl sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quod}} . {{c2::N nom, acc sg::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quōrum}} . {{c2::MN gen pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+Relative Pronoun: {{c1::quōs}} . {{c2::M acc pl::gender(s) case(s) number(s)}}	Wheelock	17	pronounParadigm
+{{c1::libéllus, libéllī}} has gender {{c2::m}} and means {{c3::little book}} with English derivatives {{c1::libel, libelous; diminutive of liber}}	Wheelock	17	noun
+{{c1::quī, quae, quod}} is a/an {{c4::relativePronoun}} and means {{c3::who, which, what, that}} with English derivatives {{c1::qui vive, quorum}}	Wheelock	17	relativePronoun
+{{c1::caécus, caéca, caécum}} means {{c3::blind}} with English derivatives {{c1::caecum, caecal, caecilian}}	Wheelock	17	adjective
+{{c1::lévis, léve}} means {{c3::light; easy; slight, trivial}} with English derivatives {{c1::levity lever, levy, levee, Levant, leaven, legerdemain, alleviate, elevate, relevant, irrelevant, relieve}}	Wheelock	17	adjective
+{{c1::aut}} is a/an {{c4::conj}} and means {{c3::quickly}} with English derivatives {{c1::excite, incite, recite; cf. recitō}}	Wheelock	17	
+{{c1::quóque}} is a/an {{c4::adv}} and means {{c3::also, too}}	Wheelock	17	adverb
+{{c1::admíttō, admíttere, admī́sī, admíssum}} means {{c3::to admit, receive, let in}} with English derivatives {{c1::admission, admissible, inadmissible, admittedly}}	Wheelock	17	verb
+{{c1::coépī, coepísse, coéptum}} means {{c3::began, defective verb used in the perfect system only; for present system prefer incipiō}}	Wheelock	17	verb
+{{c1::cúpiō, cúpere, cupī́vī, cupī́tum}} means {{c3::to desire, wish, long for}} with English derivatives {{c1::Cupid, cupidity, concupiscence, covet, covetous, Kewpie doll, cf. cupiditās}}	Wheelock	17	verb
+{{c1::dḗleō, dēlḗre, dēlḗvī, dēlḗtum}} means {{c3::to destroy, wipe out, erase}} with English derivatives {{c1::delete, indelible}}	Wheelock	17	verb
+{{c1::dēsī́derō, dēsīderā́re, dēsīderā́vī, dēsīderā́tum}} means {{c3::to desire, long for, miss}} with English derivatives {{c1::desiderate, desideratum, desiderative, desire, desirous}}	Wheelock	17	verb
+{{c1::incípiō, incípere, incḗpī, incéptum}} means {{c3::to begin}} with English derivatives {{c1::incipient, inception; cf. capiō}}	Wheelock	17	verb
+{{c1::nā́vigō, nāvigā́re, nāvigā́vī, nāvigā́tum}} means {{c3::to sail, navigate}} with English derivatives {{c1::navigation, navigable; cf. nauta}}	Wheelock	17	verb
+{{c1::néglegō, neglégere, neglḗxī, neglḗctum}} means {{c3::to neglect, disregard}} with English derivatives {{c1::negligent, negligee, negligible}}	Wheelock	17	verb
+{{c1::récitō, recitā́re, recitā́vī, recitā́tum}} means {{c3::to read aloud, recite}} with English derivatives {{c1::recital, recitation, recitative}}	Wheelock	17	verb

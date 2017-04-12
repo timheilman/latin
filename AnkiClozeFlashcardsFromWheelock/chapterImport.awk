@@ -1,5 +1,5 @@
 # invocation:
-# LC_ALL=en_US.UTF-8 awk -F\| -v chapterNumber=15 -f chapterImport.awk chapter15import.psv
+# LC_ALL=en_US.UTF-8 awk -F\| -f chapterImport.awk -v chapterNumber=n file.psv
 # input data format:
 # n|forms|gender|translation[|derivatives]
 # adj|forms|translation[|derivatives]
@@ -7,8 +7,6 @@
 # ablCaseUse|name|recognition|translation
 # genCaseUse|name|recognition|translation
 # anyOtherPartOfSpeech|forms|translation|[derivatives]|posTag
-
-# todo: import and give a format key to reg & irreg verb form awk scripts deeper in filesystem
 
 {
     if ($1 == "n") {

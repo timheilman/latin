@@ -1,0 +1,63 @@
+reg verb: conj/prin part/ending: 1 2 or . {{c1::or, 1, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 aris . {{c1::āris, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 are . {{c1::āre, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 atur . {{c1::ātur, 3, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 amur . {{c1::āmur, 1, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 amini . {{c1::āminī, 2, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 antur . {{c1::antur, 3, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 eor . {{c1::eor, 1, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 eris . {{c1::ēris, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ere . {{c1::ēre, 2, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 etur . {{c1::ētur, 3, sg, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 emur . {{c1::ēmur, 1, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 emini . {{c1::ēminī, 2, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 entur . {{c1::entur, 3, pl, present, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abar . {{c1::ābar, 1, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abaris . {{c1::ābāris, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abare . {{c1::ābāre, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abatur . {{c1::ābātur, 3, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abamur . {{c1::ābāmur, 1, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abamini . {{c1::ābāminī, 2, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abantur . {{c1::ābantur, 3, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebar . {{c1::ēbar, 1, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebaris . {{c1::ēbāris, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebare . {{c1::ēbāre, 2, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebatur . {{c1::ēbātur, 3, sg, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebamur . {{c1::ēbāmur, 1, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebamini . {{c1::ēbāminī, 2, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebantur . {{c1::ēbantur, 3, pl, imperfect, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abor . {{c1::ābor, 1, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 aberis . {{c1::āberis, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abere . {{c1::ābere, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abitur . {{c1::ābitur, 3, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abimur . {{c1::ābimur, 1, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abimini . {{c1::ābiminī, 2, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 abuntur . {{c1::ābuntur, 3, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebor . {{c1::ēbor, 1, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 eberis . {{c1::ēberis, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebere . {{c1::ēbere, 2, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebitur . {{c1::ēbitur, 3, sg, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebimur . {{c1::ēbimur, 1, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebimini . {{c1::ēbiminī, 2, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 ebuntur . {{c1::ēbuntur, 3, pl, future, indicative, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 1 2 ari . {{c1::ārī, n/a, n/a, present, infinitive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+reg verb: conj/prin part/ending: 2 2 eri . {{c1::ērī, n/a, n/a, present, infinitive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	18	
+ablative case use: personal agent . {{c1::with ā/ab . by::how to recognize . translation}} .	Wheelock	18	ablativeCaseUse
+ablative case use: {{c1::personal agent::ablative of ___}} . with ā/ab . {{c1::by::translation}} .	Wheelock	18	ablativeCaseUse
+ablative case use: {{c1::personal agent . with ā/ab::ablative of ___ . how to recognize}} . by .	Wheelock	18	ablativeCaseUse
+{{c1::flū́men, flū́minis}} has gender {{c2::n}} and means {{c3::river}} with English derivatives {{c1::flume, fluminous, cf. fluō}}	Wheelock	18	noun
+{{c1::génus, géneris}} has gender {{c2::n}} and means {{c3::origin; kind type, sort, class}} with English derivatives {{c1::genus, generic, genitive, gender, general, generous, genuine, degenerate, genre, congenial}}	Wheelock	18	noun
+{{c1::hóstis, hóstis (sg)}} has gender {{c2::m}} and means {{c3::an enemy (of the state)}} with English derivatives {{c1::hostile, hostility, host}}	Wheelock	18	noun
+{{c1::hóstēs, hóstium (pl)}} has gender {{c2::m}} and means {{c3::the enemy}} with English derivatives {{c1::hostile, hostility, host}}	Wheelock	18	noun
+{{c1::lū́dus, lū́dī}} has gender {{c2::m}} and means {{c3::game, sport; school}} with English derivatives {{c1::ludicrous, delude, elude, elusive, allude, allusion, illusion, collusion, interlude, prelude, postlude}}	Wheelock	18	noun
+{{c1::próbitās, probitā́tis}} has gender {{c2::f}} and means {{c3::uprightness, honesty}} with English derivatives {{c1::probity, probation}}	Wheelock	18	noun
+{{c1::sciéntia, sciéntiae}} has gender {{c2::f}} and means {{c3::knowledge}} with English derivatives {{c1::science, scientific, scientist, prescience; cf. scīre, to know}}	Wheelock	18	noun
+{{c1::clā́rus, clā́ra, clā́rum}} means {{c3::clear, bright; renowned, famous, illustrious}} with English derivatives {{c1::clarify, clarity, claret, clarinet, clarion, declare, Clara, Clarissa, Claribel}}	Wheelock	18	adjective
+{{c1::mortā́lis, mortā́le}} means {{c3::mortal}} with English derivatives {{c1::mortality, immortal, immortality; cf. mors}}	Wheelock	18	adjective
+{{c1::cūr}} is a/an {{c4::adv}} and means {{c3::why}}	Wheelock	18	adverb
+{{c1::deínde}} is a/an {{c4::adv}} and means {{c3::thereupon, next, then}}	Wheelock	18	adverb
+{{c1::flúō, flúere, flū́xī, flū́xum}} means {{c3::to flow}} with English derivatives {{c1::fluid, fluent, flux, influx, affluence, influence, confluence, influenza, flu, mellifluous, superfluous}}	Wheelock	18	verb
+{{c1::légō, légere, lḗgī, lḗctum}} means {{c3::to pick out, choose; read}} with English derivatives {{c1::elect, elegant, eligible, lecture, legend, legible, intellect; cf. dīligō, intellegō, neglegō}}	Wheelock	18	verb
+{{c1::mísceō, miscḗre, míscuī, míxtum}} means {{c3::to mix, stir up, disturb}} with English derivatives {{c1::miscellaneous, miscible, meddle, medley, melee, promiscuous}}	Wheelock	18	verb
+{{c1::móveō, movḗre, mṓvī, mṓtum}} means {{c3::to move; arouse, affect}} with English derivatives {{c1::mobile, motion, motive, motor, commotion, emotion, remote, locomotive, mutiny}}	Wheelock	18	verb
+{{c1::vídeor, vidḗrī, vī́sus sum}} means {{c3::passive of videō, to be seen, seem, appear}}	Wheelock	18	verb

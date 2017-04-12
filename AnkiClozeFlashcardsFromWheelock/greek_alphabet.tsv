@@ -1,0 +1,50 @@
+Greek letter A: {{c1::capital ALPHA (AL-fuh)::capitalized? name?}} First letter of the Greek alphabet.			
+Greek letter α: {{c1::lowercase ALPHA (AL-fuh)::capitalized? name?}} First letter of the Greek alphabet.			
+Greek letter B: {{c1::capital BETA (BAY-tuh)::capitalized? name?}}			
+Greek letter β: {{c1::lowercase BETA (BAY-tuh)::capitalized? name?}}			
+Greek letter Γ: {{c1::capital GAMMA (GAM-uh)::capitalized? name?}}			
+Greek letter γ: {{c1::lowercase GAMMA (GAM-uh)::capitalized? name?}}			
+Greek letter Δ: {{c1::capital DELTA (DEL-tuh)::capitalized? name?}}			
+Greek letter δ: {{c1::lowercase DELTA (DEL-tuh)::capitalized? name?}}			
+Greek letter E: {{c1::capital EPSILON (EP-sil-on)::capitalized? name?}}			
+Greek letter ϵ,ε: {{c1::lowercase EPSILON (EP-sil-on)::capitalized? name?}} A stylized form, ∈, is used as the “set membership” symbol.			
+Greek letter Z: {{c1::capital ZETA (ZAY-tuh)::capitalized? name?}}			
+Greek letter ζ: {{c1::lowercase ZETA (ZAY-tuh)::capitalized? name?}}			
+Greek letter H: {{c1::capital ETA (AY-tuh)::capitalized? name?}}			
+Greek letter η: {{c1::lowercase ETA (AY-tuh)::capitalized? name?}}			
+Greek letter Θ: {{c1::capital THETA (THAY-tuh)::capitalized? name?}}			
+Greek letter θ: {{c1::lowercase THETA (THAY-tuh)::capitalized? name?}}			
+Greek letter I: {{c1::capital IOTA (eye-OH-tuh)::capitalized? name?}}			
+Greek letter ι: {{c1::lowercase IOTA (eye-OH-tuh)::capitalized? name?}}			
+Greek letter K: {{c1::capital KAPPA (KAP-uh)::capitalized? name?}}			
+Greek letter κ: {{c1::lowercase KAPPA (KAP-uh)::capitalized? name?}}			
+Greek letter Λ: {{c1::capital LAMBDA (LAM-duh)::capitalized? name?}}			
+Greek letter λ: {{c1::lowercase LAMBDA (LAM-duh)::capitalized? name?}}			
+Greek letter M: {{c1::capital MU (MYOO)::capitalized? name?}}			
+Greek letter μ: {{c1::lowercase MU (MYOO)::capitalized? name?}}			
+Greek letter N: {{c1::capital NU (NOO)::capitalized? name?}}			
+Greek letter ν: {{c1::lowercase NU (NOO)::capitalized? name?}}			
+Greek letter Ξ: {{c1::capital XI (KS-EYE)::capitalized? name?}}			
+Greek letter ξ: {{c1::lowercase XI (KS-EYE)::capitalized? name?}}			
+Greek letter O: {{c1::capital OMICRON (OM-i-KRON)::capitalized? name?}}			
+Greek letter ο: {{c1::lowercase OMICRON (OM-i-KRON)::capitalized? name?}}			
+Greek letter Π: {{c1::capital PI (PIE)::capitalized? name?}} The "product" symbol.			
+Greek letter π: {{c1::lowercase PI (PIE)::capitalized? name?}} Used to represent the ratio of the circumference of a circle to its diameter.			
+Greek letter P: {{c1::capital RHO (ROW)::capitalized? name?}}			
+Greek letter ρ: {{c1::lowercase RHO (ROW)::capitalized? name?}}			
+Greek letter Σ: {{c1::capital SIGMA (SIG-muh)::capitalized? name?}} The "summation" symbol.			
+Greek letter σ,ς: {{c1::lowercase SIGMA (SIG-muh)::capitalized? name?}}			
+Greek letter T: {{c1::capital TAU (TAU)::capitalized? name?}}			
+Greek letter τ: {{c1::lowercase TAU (TAU)::capitalized? name?}}			
+Greek letter Υ: {{c1::capital UPSILON (OOP-si-lon)::capitalized? name?}}			
+Greek letter υ: {{c1::lowercase UPSILON (OOP-si-lon)::capitalized? name?}}			
+Greek letter Φ: {{c1::capital PHI (FEE)::capitalized? name?}}			
+Greek letter ϕ,φ: {{c1::lowercase PHI (FEE)::capitalized? name?}}			
+Greek letter X: {{c1::capital CHI (K-EYE)::capitalized? name?}}			
+Greek letter χ: {{c1::lowercase CHI (K-EYE)::capitalized? name?}}			
+Greek letter Ψ: {{c1::capital PSI (SIGH)::capitalized? name?}}			
+Greek letter ψ: {{c1::lowercase PSI (SIGH)::capitalized? name?}}			
+Greek letter Ω: {{c1::capital OMEGA (oh-MAY-guh)::capitalized? name?}} Last letter of the Greek alphabet.			
+Greek letter ω: {{c1::lowercase OMEGA (oh-MAY-guh)::capitalized? name?}} Last letter of the Greek alphabet. Denotes the smallest infinite ordinal in set-theory, isomorphic to the set of natural numbers.			
+Greek Alphabet: {{c1::A B Γ}} {{c2::Δ E Z}} {{c3::H Θ I}} {{c4::K Λ M}} {{c1::N Ξ O}} {{c2::Π P Σ}} {{c3::T Υ Φ}} {{c4::X Ψ Ω}}			
+Greek Alphabet: {{c1::α β γ}} {{c2::δ ε ζ}} {{c3::η θ ι}} {{c4::κ λ μ}} {{c1::ν ξ ο}} {{c2::π ρ σ/ς}} {{c3::τ υ φ/ϕ}} {{c4::χ ψ ω}}			
