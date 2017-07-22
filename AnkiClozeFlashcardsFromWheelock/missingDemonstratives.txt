@@ -1,0 +1,10 @@
+Personal Pronoun: {{c1::eadem}} . {{c2::F 3rd nom sg "the same woman" OR N 3rd nom or acc pl "the same things"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eiusdem}} . {{c2::M F N 3rd gen sg "of the same man/woman/thing; the same man's/woman's/thing's"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eīdem}} . {{c2::M F N 3rd dat sg "to/for the same man/woman/thing OR M 3rd nom pl "the same men"::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eādem}} . {{c2::F 3rd abl sg "by/with/from the same woman::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eōdem}} . {{c2::M N 3rd abl sg "by/with/from the same man/thing::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eaedem}} . {{c2::F 3rd nom pl "the same women::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eīsdem}} . {{c2::M F N 3rd dat or abl pl "to/for/by/with/from the same men/women/things::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::īsdem}} . {{c2::M dat pl (alt) "to/for the same men::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eōsdem}} . {{c2::M N acc pl "the same men/things::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
+Personal Pronoun: {{c1::eāsdem}} . {{c2::F acc pl "the same women::gender(s) person case(s) number(s) non-demonstrative translation(s)}}	Wheelock	11	pronounParadigms
