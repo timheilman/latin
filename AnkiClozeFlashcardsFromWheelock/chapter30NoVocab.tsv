@@ -1,0 +1,16 @@
+reg verb: conj/prin part/ending: all 3 erim . {{c1::erim, 1, sg, perfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 isset . {{c1::isset, 3, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issent . {{c1::issent, 3, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 4 us/-a/-um w/esse in present subjunctive . {{c1::us/-a/-um, all, all, perfect, subjunctive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issetis . {{c1::issētis, 2, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 4 us/-a/-um w/esse in imperfect subjunctive . {{c1::us/-a/-um, all, all, pluperfect, subjunctive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 isses . {{c1::issēs, 2, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issemus . {{c1::issēmus, 1, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issem . {{c1::issem, 1, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+Although there is no future subjunctive, the {{c1::future active periphrastic (form of sum + active participle)}} was used in its place in some constructions, including the indirect question, wherein the form of sum will be in the {{c1::subjunctive}} mood and {{c1::present}} tense for {{c1::present and future}} tense main verbs, or {{c1::imperfect}} tense for {{c1::past}} tense main verbs.	Wheelock	30	
+The {{c2::present}} subjunctive is used when the subordinate verb's action occurs {{c1::at the same time or after}} the main verb's action, and the main verb is in a/an {{c1::present or future}} tense.	Wheelock	30	
+The {{c2::perfect}} subjunctive is used when the subordinate verb's action occurs {{c1::before}} the main verb's action, and the main verb is in a/an {{c1::present or future}} tense.	Wheelock	30	
+The {{c2::imperfect}} subjunctive is used when the subordinate verb's action occurs {{c1::at the same time or after}} the main verb's action, and the main verb is in a/an {{c1::past}} tense.	Wheelock	30	
+The {{c2::pluperfect}} subjunctive is used when the subordinate verb's action occurs {{c1::before}} the main verb's action, and the main verb is in a/an {{c1::past}} tense.	Wheelock	30	
+Exception to rule for sequence of tenses: {{c1::historical present}}: {{c2::present tense main verb for vivid narration of past events may take an imperfect or pluperfect subjunctive}}.	Wheelock	30	
+Exception to rule for sequence of tenses: {{c1::perfect tense main verb focusing on the result of the action may take a present or perfect subjunctive}}.	Wheelock	30	

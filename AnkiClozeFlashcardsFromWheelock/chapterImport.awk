@@ -6,6 +6,8 @@
 # v|forms|translation[|derivatives]
 # ablCaseUse|name|recognition|translation
 # genCaseUse|name|recognition|translation
+# datCaseUse|name|recognition|translation
+# subCaseUse|name|recognition|translation
 # anyOtherPartOfSpeech|forms|translation|[derivatives]|posTag
 
 {
@@ -19,6 +21,10 @@
 	processCaseUse("ablative");
     } else if ($1 == "genCaseUse") {
 	processCaseUse("genitive");
+    } else if ($1 == "datCaseUse") {
+	processCaseUse("dative");
+    } else if ($1 == "subCaseUse") {
+	processCaseUse("subjunctive");
     } else {
 	processOther();
     }

@@ -1,0 +1,9 @@
+reg verb: conj/prin part/ending: all 3 erim . {{c1::erim, 1, sg, perfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 isset . {{c1::isset, 3, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issent . {{c1::issent, 3, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 4 us/-a/-um w/esse in present subjunctive . {{c1::us/-a/-um, all, all, perfect, subjunctive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issetis . {{c1::issētis, 2, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 4 us/-a/-um w/esse in imperfect subjunctive . {{c1::us/-a/-um, all, all, pluperfect, subjunctive, passive::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 isses . {{c1::issēs, 2, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issemus . {{c1::issēmus, 1, pl, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
+reg verb: conj/prin part/ending: all 3 issem . {{c1::issem, 1, sg, pluperfect, subjunctive, active::macrons, person, number, tense, mood, and voice}}	Wheelock	30	
