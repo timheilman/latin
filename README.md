@@ -1,9 +1,14 @@
 # latin
 
+see source data for grammar here:
+
+https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
+
 Study materials for the Latin language, mainly from the text
 _Wheelock's Latin_ and in a format for import to the best-in-class
 spaced repetition flashcard software, Anki.  See http://ankisrs.net
 . The format used is TSV for Cloze import.
+
 
 I'm no longer considering these representations canonical, because
 this addon looks sufficient to satisfy my concerns described below:
