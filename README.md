@@ -1,4 +1,4 @@
-# Latin
+# Wheelock's Latin for Anki
 
 Study materials for the Latin language, mainly from the text
 _Wheelock's Latin_ and in a format for import to the best-in-class
