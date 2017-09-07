@@ -1,92 +1,83 @@
-# latin
-
-see source data for grammar here:
-
-https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
+# Latin
 
 Study materials for the Latin language, mainly from the text
 _Wheelock's Latin_ and in a format for import to the best-in-class
-spaced repetition flashcard software, Anki.  See http://ankisrs.net
-. The format used is TSV for Cloze import.
-
-
-
-
-I'm no longer considering these representations canonical, because
-this addon looks sufficient to satisfy my concerns described below:
-https://ankiweb.net/shared/info/291119185 .
+spaced repetition flashcard software, Anki.
 
 I'll continue to add my initial imports. Maybe someday I'll publish
-the deck through AnkiWeb.
+the deck through AnkiWeb, and this will become the readme for the deck.
 
-------
+### Features
 
-WARNING: maintaining these notes in TSV carries with it some gotchas.
+* All conjugations (1,2,3,3io,4) inverted from Wheelock presentation
+  for focus on reading comprehension rather than writing/speaking
+  skills.  The template is, front: [conj., prin. part, latin verb
+  ending], back: [person, number, tense, mood, voice]
 
-1. Use the note editor of the Anki browser ONLY by "paste"ing to the
-entirety of the field.  That is, all edits to fields done within the
-note editor of the Anki browser should be the wholesale replacement of
-the existing text with a paste command (copied from these TSVs).
+* All declensions (1,2,3,3istem,4,5) nouns inverted from Wheelock
+  presentation also for focus on reading comprehension. front: [decl.,
+  gender, latin noun ending], back: [case, number]
 
-2. If you are going to use "Allow HTML in Fields" during import with
-Anki as of 2.0.36, manually verify outside Anki that all text is
-HTML-compliant.
+* Adjectives categorized (1/2, 3, 3presActPart, 3comparative) also
+  inverted.  front: [decl., latin adj or presActPart ending] back: [gender,
+  case, number, (degree)]
 
-Failure to do either of these things can lead to the confusing
-behavior that duplicates are not detected at import despite that the
-newly-added notes are immediately detected as duplicates by the
-browser, yet the spaced repetition tracking data remains associated
-with the original, not-updated, card(s).
+* Relatives, interrogatives, pronouns, etc., all with front: as the
+  Latin word, stem, base, or ending.
 
-The long story follows.
+* Care taken with POS collision on word forms, e.g. vīs or relative
+  and interrogative, to keep the focus on reading comprehension.
 
-I maintain these notes canonically in TSV files, outside Anki and its
-deck import/export and networked sharing features, because I knew,
-when starting at chapter one, that Latin was a large subject that would
-require a great many flashcards, but didn't know exactly what sorts of
-cards I was going to wind up with, nor how I would wind up wanting to
-categorize them later.  Thus I found myself craving the option to add
-and remove fields and tags, and edit them, on bulk sets of notes well
-after they were written, as I proceeded through the chapters, without
-needing to select and update one card at a time (for each note needing
-update) individually in the Note editor.
+* Intensive coverage of explanatory text, including case uses for
+  difficult words (subjunctive case uses, including ut and cum,
+  genitive use cases). Keep the "bury" function in Anki in mind with
+  these; they are generated as three separate cards, each one mapping
+  one of [caseUseName, recognition, comprehension] to the other two.
+  They ought to be linked as different clozes in a single note are,
+  and thus buried automatically when one of the other two in the
+  triplet are studied.  I may misunderstand cloze deletions but can't
+  get this three-way mapping done, so simply manually bury cards when
+  I've already seen this front on another of the triplet's back's.
 
-Unfortunately, this bulk-field-add,delete,update feature wasn't
-available in the excellent Anki software, though two others were: TSV
-import and duplicate detection based on the Text field, which governs
-whether a note is added OR an existing note is updated (in its
-non-Text fields) or ignored (when all fields from the candidate import
-note are identical to all fields in an existing note).  These two
-features enable the bulk-add, remove, and edit features (on non-Text
-fields only) because these canonical TSV files can be processed with
-common text-processing utilities like awk and emacs keyboard macros
-(among many more), and so long as the Text field remains the same, the
-updates to non-Text fields will be reflected upon reimport.  I've used
-this approach successfully so far to maintain flexibility in my
-(re)categorization of the Latin material as I understand more of the
-structure and what sorts of categorizations will best suit my study.
+* all chapter vocabulary (glosses excluded), including macrons and
+  accents, exactly as presented in Wheelock version 7, though typos
+  are mine, in both reading- and writing- focused clozes.
+  
+### Usage
 
-However, at some point I bit the bullet and modified the Text field of
-a set of cards, one by one, in the Anki browser's note editor,
-executing the same edits simultaneously in the TSV records for those
-same notes.  The duplicate detection of the Text field at import then
-began to fail, because the edits in the Anki browser's note editor
-placed non-breaking spaces at some locations where I'd struck the
-space bar, whereas a normal (breaking) space was entered in the TSV.
-Exporting the notes with the non-breaking spaces and checking "Allow
-HTML in fields" allowed me to resume with the duplicate detection
-functioning, until a stray ampersand wound up imported without HTML
-escaping from a different file, for which I hadn't deselected "Allow
-HTML in Fields".  Once another edit was made in the Anki browser's
-note editor to the note with the ampersand, that ampersand was
-HTML-escaped and duplicate detection at import again broke.
+First, install the free desktop application from http://ankisrs.net.
+Then, import some of these tsvs as cloze import.  These TSV
+representations have my human data-entry errors, because Anki has
+extensive editing, addon and import/export support, so I clean it up
+in there.  Sorry!  If/when I publish on ankiweb, they'll all be
+cleaned up, along with additional cards I added directly.
 
-Stumbling through all these pitfalls, the lesson learned is as stated
-at the WARNING above.
+In particular, be careful either to leave the HTML import box
+unchecked or else ensure everything is HTML compliant (which is to
+make sure no &, <, nor > are in the files, unless as intended for
+HTML) before import.
 
+The browser allows you to view cards with an extensive search
+language.  Furthermore, the same search language allows you to create
+filtered decks, which is how this deck was prepared to be used, in
+accordance with the design of the Anki software package itself, which
+doesn't handle large numbers of decks, as with one deck per chapter.
+By studying the cards in this deck from filtered decks instead of from
+the main deck created upon import of the tsv files, everything here
+can be imported once (as best you can) and then adjusted regardless
+of import order to focus on the parts of this whale to digest.
 
+For example, try some of the following progressive chapter filter
+searches.  Note also that, per the Anki manual, "You can hold down
+Ctrl (command on a Mac) and click in order to append the clicked
+[sidebar] item to the current search with an AND condition, instead of
+starting a new search."  Thus however far you are along in Wheelock's
+Latin, you can start with one of the searches below and append any
+tags from the sidebar with ctrl or command click, or your own search
+terms from among what you've already studied.
 
 Progressive Chapter Filter Searches:
+
 * Chapters 0-0
   * source:Wheelock (chapter:0)
 * Chapters 0-1
@@ -169,3 +160,11 @@ Progressive Chapter Filter Searches:
   * source:Wheelock (chapter:_ OR chapter:1_ OR chapter:2_ OR chapter:3_)
 * Chapters 0-40
   * source:Wheelock (chapter:_ OR chapter:1_ OR chapter:2_ OR chapter:3_ OR chapter:40)
+
+### source data for grammar flashcards reading-comprehension focus construction
+
+https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
+
+
+
+
