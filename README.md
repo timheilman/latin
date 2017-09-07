@@ -11,15 +11,18 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 
 * All conjugations (1,2,3,3io,4) inverted from Wheelock presentation
   for focus on reading comprehension rather than writing/speaking
-  skills.  The template is, front: [conj., prin. part, latin verb
-  ending], back: [person, number, tense, mood, voice]
+  skills.  The template is, front: [conj., prin. part, Latin verb
+  ending without macrons], back: [ending with macrons, person, number,
+  tense, mood, voice]
 
-* All declensions (1,2,3,3istem,4,5) nouns inverted from Wheelock
+* All declensions (1,2,3,3istem,4,5) noun forms inverted from Wheelock
   presentation also for focus on reading comprehension. front: [decl.,
-  gender, latin noun ending], back: [case, number]
+  gender, Latin noun ending without macrons], back: [ending with
+  macrons, case, number], including distinguishment depending on
+  macron
 
 * Adjectives categorized (1/2, 3, 3presActPart, 3comparative) also
-  inverted.  front: [decl., latin adj or presActPart ending] back: [gender,
+  inverted.  front: [decl., Latin adj or presActPart ending] back: [gender,
   case, number, (degree)]
 
 * Relatives, interrogatives, pronouns, etc., all with front: as the
