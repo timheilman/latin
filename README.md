@@ -42,11 +42,11 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   and thus buried automatically when one of the other two in the
   triplet are studied.  I may misunderstand cloze deletions but can't
   get this three-way mapping done, so simply manually bury cards when
-  I've already seen this front on another of the triplet's back's.
+  I've already seen this front on another of the triplet's back's today.
 
 * all chapter vocabulary (glosses excluded), including macrons and
-  accents, exactly as presented in Wheelock version 7, though typos
-  are mine, in both reading- and writing- focused clozes.
+  accents, exactly as presented in Wheelock 7th edition, in both
+  reading- and writing- focused clozes, though typos are mine.
   
 ### Usage
 
@@ -69,8 +69,10 @@ accordance with the design of the Anki software package itself, which
 doesn't handle large numbers of decks, as with one deck per chapter.
 By studying the cards in this deck from filtered decks instead of from
 the main deck created upon import of the tsv files, everything here
-can be imported once (as best you can) and then adjusted regardless
-of import order to focus on the parts of this whale to digest.
+can be imported once (as best you can) into a single deck and then
+adjusted with different, temporary filtered decks regardless of import
+order of the TSVs, to focus exclusively on small parts of this mammoth
+at a time.
 
 For example, try some of the following progressive chapter filter
 searches.  Note also that, per the Anki manual, "You can hold down
@@ -170,6 +172,25 @@ Progressive Chapter Filter Searches:
 
 https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
 
+### macron and accent encoding and searching
 
+The following is intended to be handy for copy-paste into the card
+browser.  Anki doesn't match searches on macron- or accent-containing
+characters unless the accent and/or macron are included.  I've done my
+best to use a single unicode code point (in UTF-8) wherever possible,
+but there may be some slip ups where, e.g. standard U+0065 is followed
+by U+0301 rather than U+00E9.  When both a macron and an accent are
+present, the macroned character is (usually?) preferred, followed by
+the modifying diacritical U+0301 for acute accent.  It would be great
+if Anki had search that included unicode decomposition, so that typing
+e would match e, é, ē, and ḗ, regardless of how the latter three are
+encoded, but it does not.  Instead, as yet I recommend SPQR for such
+Latin-to-English lookups (or just try hard to remember the English
+words on the card you seek!)
 
-
+* á, ā, ā́
+* é, ē, ḗ
+* í, ī, ī́
+* ó, ō, ṓ
+* ú, ū, ū́
+* ý, y̅, y̅́
