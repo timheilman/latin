@@ -51,11 +51,12 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 ### Usage
 
 First, install the free desktop application from http://ankisrs.net.
-Then, import some of these tsvs as cloze import.  These TSV
-representations have my human data-entry errors, because Anki has
-extensive editing, addon and import/export support, so I clean it up
-in there.  Sorry!  If/when I publish on ankiweb, they'll all be
-cleaned up, along with additional cards I added directly.
+Then, import some of these tsvs as cloze import with fields card text,
+source, chapter, and of course tags.  These TSV representations have
+my human data-entry errors, because Anki has extensive editing, addon
+and import/export support, so I clean it up in there.  Sorry!  If/when
+I publish on ankiweb, they'll all be cleaned up, along with additional
+cards I added directly.
 
 In particular, be careful either to leave the HTML import box
 unchecked or else ensure everything is HTML compliant (which is to
@@ -179,14 +180,14 @@ browser.  Anki doesn't match searches on macron- or accent-containing
 characters unless the accent and/or macron are included.  I've done my
 best to use a single unicode code point (in UTF-8) wherever possible,
 but there may be some slip ups where, e.g. standard U+0065 is followed
-by U+0301 rather than U+00E9.  When both a macron and an accent are
-present, the macroned character is (usually?) preferred, followed by
-the modifying diacritical U+0301 for acute accent.  It would be great
-if Anki had search that included unicode decomposition, so that typing
-e would match e, é, ē, and ḗ, regardless of how the latter three are
-encoded, but it does not.  Instead, as yet I recommend SPQR for such
-Latin-to-English lookups (or just try hard to remember the English
-words on the card you seek!)
+by U+0301 rather than U+00E9 being used alone.  When both a macron and
+an accent are present, the macroned character encoding is (usually?)
+preferred, followed by the modifying diacritical U+0301 for acute
+accent.  It would be great if Anki had search that included unicode
+decomposition, so that typing e would match e, é, ē, and ḗ, regardless
+of how the latter three are encoded, but it does not.  Instead, as yet
+I recommend SPQR for such Latin-to-English lookups (or just try hard
+to remember the English words on the card you seek!)
 
 * á, ā, ā́
 * é, ē, ḗ
