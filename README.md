@@ -189,9 +189,9 @@ of how the latter three are encoded, but it does not.  Instead, as yet
 I recommend SPQR for such Latin-to-English lookups (or just try hard
 to remember the English words on the card you seek!)
 
-* á, ā, ā́
-* é, ē, ḗ
-* í, ī, ī́
-* ó, ō, ṓ
-* ú, ū, ū́
-* ý, y̅, y̅́
+* á    ā    ā́
+* é    ē    ḗ
+* í    ī    ī́
+* ó    ō    ṓ
+* ú    ū    ū́
+* ý    y̅    y̅́
