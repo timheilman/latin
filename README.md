@@ -13,17 +13,19 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   for focus on reading comprehension rather than writing/speaking
   skills.  The template is, front: [conj., prin. part, Latin verb
   ending without macrons], back: [ending with macrons, person, number,
-  tense, mood, voice]
+  tense, mood, voice], including distinguishment in p/n/t/m/v
+  depending on macron
 
 * All declensions (1,2,3,3istem,4,5) noun forms inverted from Wheelock
   presentation also for focus on reading comprehension. front: [decl.,
   gender, Latin noun ending without macrons], back: [ending with
-  macrons, case, number], including distinguishment depending on
-  macron
+  macrons, case, number], including distinguishment in c/n depending
+  on macron
 
 * Adjectives categorized (1/2, 3, 3presActPart, 3comparative) also
-  inverted.  front: [decl., Latin adj or presActPart ending] back: [gender,
-  case, number, (degree)]
+  inverted.  front: [decl., Latin adj or presActPart ending] back:
+  [gender, case, number, (degree)], including distinguishment of
+  g/c/n/(d) depending on macron
 
 * Relatives, interrogatives, pronouns, etc., all with front: as the
   Latin word, stem, base, or ending.
