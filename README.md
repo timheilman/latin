@@ -31,7 +31,7 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   Latin word, stem, base, or ending.
 
 * Care taken with POS collision on word forms, e.g. vīs or relative
-  and interrogative, to keep the focus on reading comprehension.
+  and interrogative, also keeping the focus on reading comprehension.
 
 * Intensive coverage of explanatory text, including case uses for
   difficult words (subjunctive case uses, including ut and cum,
@@ -42,7 +42,8 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   and thus buried automatically when one of the other two in the
   triplet are studied.  I may misunderstand cloze deletions but can't
   get this three-way mapping done, so simply manually bury cards when
-  I've already seen this front on another of the triplet's back's today.
+  I've already seen part of this front on another of the triplet's back's
+  today.
 
 * all chapter vocabulary (glosses excluded), including macrons and
   accents, exactly as presented in Wheelock 7th edition, in both
@@ -51,6 +52,14 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 ### Usage
 
 First, install the free desktop application from http://ankisrs.net.
+
+Then, add this addon, because the Latin forms are presented with
+macrons and accents, in order to enable lookup of Anki cards in the
+browser by the Latin forms used on the front of the cards, install this
+addon:
+
+https://ankiweb.net/shared/info/1924690148
+
 Then, import some of these tsvs as cloze import with fields card text,
 source, chapter, and of course tags.  These TSV representations have
 my human data-entry errors, because Anki has extensive editing, addon
@@ -172,26 +181,3 @@ Progressive Chapter Filter Searches:
 ### source data for grammar flashcards reading-comprehension focus construction
 
 https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
-
-### macron and accent encoding and searching
-
-The following is intended to be handy for copy-paste into the card
-browser.  Anki doesn't match searches on macron- or accent-containing
-characters unless the accent and/or macron are included.  I've done my
-best to use a single unicode code point (in UTF-8) wherever possible,
-but there may be some slip ups where, e.g. standard U+0065 is followed
-by U+0301 rather than U+00E9 being used alone.  When both a macron and
-an accent are present, the macroned character encoding is (usually?)
-preferred, followed by the modifying diacritical U+0301 for acute
-accent.  It would be great if Anki had search that included unicode
-decomposition, so that typing e would match e, é, ē, and ḗ, regardless
-of how the latter three are encoded, but it does not.  Instead, as yet
-I recommend SPQR for such Latin-to-English lookups (or just try hard
-to remember the English words on the card you seek!)
-
-* á    ā    ā́
-* é    ē    ḗ
-* í    ī    ī́
-* ó    ō    ṓ
-* ú    ū    ū́
-* ý    y̅    y̅́
