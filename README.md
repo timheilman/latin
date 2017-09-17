@@ -42,50 +42,106 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   and thus buried automatically when one of the other two in the
   triplet are studied.  I may misunderstand cloze deletions but can't
   get this three-way mapping done, so simply manually bury cards when
-  I've already seen part of this front on another of the triplet's back's
+  I've already seen this front as part of another of the triplet's back
   today.
 
 * all chapter vocabulary (glosses excluded), including macrons and
   accents, exactly as presented in Wheelock 7th edition, in both
   reading- and writing- focused clozes, though typos are mine.
   
-### Usage
+## Usage
+
+### Installations
 
 First, install the free desktop application from http://ankisrs.net.
 
-Then, add this addon, because the Latin forms are presented with
+Then, because the Latin forms are presented with
 macrons and accents, in order to enable lookup of Anki cards in the
 browser by the Latin forms used on the front of the cards, install this
 addon:
 
 https://ankiweb.net/shared/info/1924690148
 
-Then, import some of these tsvs as cloze import with fields card text,
-source, chapter, and of course tags.  These TSV representations have
-my human data-entry errors, because Anki has extensive editing, addon
-and import/export support, so I clean it up in there.  Sorry!  If/when
-I publish on ankiweb, they'll all be cleaned up, along with additional
-cards I added directly.
+### TSV import
+
+TSV stands for tab-separated file.  Anki has TSV import support.  Most
+files in this repo ending in .tsv or .TSV are files intended for
+import to Anki and have these four fields, separated by tabs, one note per
+line:
+
+1. card text
+2. source
+3. chapter
+4. tags
+
+These TSV representations have my human data-entry errors, because
+Anki has extensive editing, addon and import/export support, so I
+clean it up in there.  Sorry!  If/when I publish on ankiweb, they'll
+be more cleaned up, along with additional cards I added directly.
 
 In particular, be careful either to leave the HTML import box
 unchecked or else ensure everything is HTML compliant (which is to
 make sure no &, <, nor > are in the files, unless as intended for
 HTML) before import.
 
-The browser allows you to view cards with an extensive search
-language.  Furthermore, the same search language allows you to create
-filtered decks, which is how this deck was prepared to be used, in
-accordance with the design of the Anki software package itself, which
-doesn't handle large numbers of decks, as with one deck per chapter.
+### The Anki card browser: the deck anti-hierarchy
+
+The browser allows you to view cards with an extensive search language
+and edit the notes' fields whence the cards are derived.  Furthermore,
+the same search language allows you to create filtered decks, which is
+how this deck was prepared to be used, in accordance with the manual
+of the Anki software package itself, which indicates that for the sake
+of mobile app performance, Anki doesn't handle large numbers of decks
+well, as could eventually become the case with one deck per chapter
+just for Wheelock's alone among all the other decks one may have.
+
+Instead, sufficient functionality is provided with fields and tags to
+filter the deck by whichever chapter of Wheelock's, or progressive
+chapters (see below), you wish to study.
+
+### Fields
+
+Card text is intended for cloze-style note import.
+
+Source is provided with constant value "Wheelock" as a separate field
+despite the entire deck being from Wheelock's Latin for the sake of
+"unified deck" reviewers like me, who do not separate their decks at
+all.  Instead, all the subjects I'm interested in knowing are
+interspersed in a single deck, and I can separate out just Wheelock by
+searching upon the Source field rather than using any more than a
+single unfiltered deck.  If you haven't tried one-deck reviewing, I
+recommend you do, I did on the advice of an Internet blog (thank you,
+random person!) and it's definitely a keener way to review cards.
+
+Chapter is the earliest chapter in which the Latin forms on the front
+of the note were introduced.
+
+tags may have part-of-speech information and/or tags like chapter32
+which indicate the note was a reading comprehension namespace
+collision, wherein vocabulary memory and word form are insufficient to
+uniquely interpret the form absent additional context, and yet the
+collision occurs not in a single chapter, but rather due to
+introduction of different interpretation for previously introduced
+forms in the later chapter(s) so tagged.
+
+### Which TSVs to import?
+
 By studying the cards in this deck from filtered decks instead of from
 the main deck created upon import of the tsv files, everything here
-can be imported once (as best you can) into a single deck and then
-adjusted with different, temporary filtered decks regardless of import
-order of the TSVs, to focus exclusively on small parts of this mammoth
-at a time.
+can be imported once (as best you can) into a single Latin deck (or
+your single combined deck) and then adjusted with different, temporary
+filtered decks regardless of import order of the TSVs, to focus
+exclusively on small parts of this mammoth at a time.
 
-For example, try some of the following progressive chapter filter
-searches.  Note also that, per the Anki manual, "You can hold down
+Alternately, you could search this deck in the browser for chapters
+you'd like to study first, and suspend (or deleting) all the notes
+except those, unsuspending chapters worth of cards as you go.
+Regardless of the path you choose to restrict notes to particular
+chapters, the imperative from the Anki software package that deck
+count for a user installation remain low is satisfied with
+organization in a single deck, rather than hierarchical decks.
+
+Note also that, per the Anki manual, "You can hold down
 Ctrl (command on a Mac) and click in order to append the clicked
 [sidebar] item to the current search with an AND condition, instead of
 starting a new search."  Thus however far you are along in Wheelock's
@@ -93,7 +149,7 @@ Latin, you can start with one of the searches below and append any
 tags from the sidebar with ctrl or command click, or your own search
 terms from among what you've already studied.
 
-Progressive Chapter Filter Searches:
+### Progressive Chapter Filter Searches
 
 * Chapters 0-0
   * source:Wheelock (chapter:0)
@@ -178,6 +234,6 @@ Progressive Chapter Filter Searches:
 * Chapters 0-40
   * source:Wheelock (chapter:_ OR chapter:1_ OR chapter:2_ OR chapter:3_ OR chapter:40)
 
-### source data for grammar flashcards reading-comprehension focus construction
+## source data for grammar flashcards reading-comprehension focus construction
 
 https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
