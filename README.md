@@ -7,7 +7,14 @@ spaced repetition flashcard software, Anki.
 I'll continue to add my initial imports. Maybe someday I'll publish
 the deck through AnkiWeb, and this will become the readme for the deck.
 
-### Features
+## Features
+
+* all chapter vocabulary (glosses excluded), including macrons and
+  accents, exactly as presented in Wheelock 7th edition, in both
+  reading- and writing- focused clozes, though typos are mine.
+
+* Introduction (chapter 0) English flashcards on timeline of
+  antiquity, pronunciation, and Latin authors.
 
 * All conjugations (1,2,3,3io,4) inverted from Wheelock presentation
   for focus on reading comprehension rather than writing/speaking
@@ -27,8 +34,10 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   [gender, case, number, (degree)], including distinguishment of
   g/c/n/(d) depending on macron
 
-* Relatives, interrogatives, pronouns, etc., all with front: as the
-  Latin word, stem, base, or ending.
+* Relatives, interrogatives, pronouns, comparatives, superlatives,
+  etc., all with front: as the Latin word, stem, base, or ending.
+
+* Preposition and verb object case acceptance and aberrations are also clozed
 
 * Care taken with POS collision on word forms, e.g. vīs or relative
   and interrogative, also keeping the focus on reading comprehension.
@@ -41,14 +50,13 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   They ought to be linked as different clozes in a single note are,
   and thus buried automatically when one of the other two in the
   triplet are studied.  I may misunderstand cloze deletions but can't
-  get this three-way mapping done, so simply manually bury cards when
-  I've already seen this front as part of another of the triplet's back
-  today.
+  get this three-way mapping done, so simply manually bury the card when
+  I've already seen this front today as part of the back of another of
+  the triplet.
 
-* all chapter vocabulary (glosses excluded), including macrons and
-  accents, exactly as presented in Wheelock 7th edition, in both
-  reading- and writing- focused clozes, though typos are mine.
-  
+* English "0/1/2/3-conditional" nomenclature grammar categories
+  supplied alongside English in conditional case use notes
+
 ## Usage
 
 ### Installations
@@ -134,7 +142,7 @@ filtered decks regardless of import order of the TSVs, to focus
 exclusively on small parts of this mammoth at a time.
 
 Alternately, you could search this deck in the browser for chapters
-you'd like to study first, and suspend (or deleting) all the notes
+you'd like to study first, and suspend (or delete) all the notes
 except those, unsuspending chapters worth of cards as you go.
 Regardless of the path you choose to restrict notes to particular
 chapters, the imperative from the Anki software package that deck
