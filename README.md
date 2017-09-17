@@ -16,11 +16,12 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 * Introduction (chapter 0) English flashcards on timeline of
   antiquity, pronunciation, and Latin authors.
 
-* All conjugations (1,2,3,3io,4) inverted from Wheelock presentation
-  for focus on reading comprehension rather than writing/speaking
-  skills.  The template is, front: [conj., prin. part, Latin verb
-  ending without macrons], back: [ending with macrons, person, number,
-  tense, mood, voice], including distinguishment in p/n/t/m/v
+* All conjugations (1,2,3,3io,4) and all irregular verbs inverted from
+  Wheelock presentation for focus on reading comprehension rather than
+  writing/speaking skills.  The template is, front: [conj.,
+  prin. part, Latin verb ending without macrons] or [irreg verb form
+  without macrons], back: [ending or form with macrons, person,
+  number, tense, mood, voice], including distinguishment in p/n/t/m/v
   depending on macron
 
 * All declensions (1,2,3,3istem,4,5) noun forms inverted from Wheelock
@@ -34,25 +35,32 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   [gender, case, number, (degree)], including distinguishment of
   g/c/n/(d) depending on macron
 
-* Relatives, interrogatives, pronouns, comparatives, superlatives,
-  etc., all with front: as the Latin word, stem, base, or ending.
+* Demonstratives, relatives, interrogatives, pronouns, comparatives,
+  superlatives, etc., all with front: as the Latin word, stem, base,
+  or ending.
 
-* Preposition and verb object case acceptance and aberrations are also clozed
+* Preposition and verb object case acceptance and irregularities are also clozed
+
+* English derivative series memorization cards for the
+  positive/comparative/superlative forms when such forms are irregular
+  in Latin, e.g. front: bad/worse/worst derivatives? back: malevolent,
+  pejorative, pessimist
 
 * Care taken with POS collision on word forms, e.g. vīs or relative
   and interrogative, also keeping the focus on reading comprehension.
 
 * Intensive coverage of explanatory text, including case uses for
-  difficult words (subjunctive case uses, including ut and cum,
-  genitive use cases). Keep the "bury" function in Anki in mind with
-  these; they are generated as three separate cards, each one mapping
-  one of [caseUseName, recognition, comprehension] to the other two.
-  They ought to be linked as different clozes in a single note are,
-  and thus buried automatically when one of the other two in the
-  triplet are studied.  I may misunderstand cloze deletions but can't
-  get this three-way mapping done, so simply manually bury the card when
-  I've already seen this front today as part of the back of another of
-  the triplet.
+  difficult words (ablative use cases, subjunctive case uses,
+  including ut and cum, genitive use cases, conditional use cases,
+  etc.). Keep the "bury" function in Anki in mind with these; they are
+  generated as three separate cards, each one mapping one of
+  [caseUseName, recognition, comprehension] to the other two.  They
+  ought to be linked as different clozes in a single note are, and
+  thus buried automatically when one of the other two in the triplet
+  are studied.  I may misunderstand cloze deletions but can't get this
+  three-way mapping done, so simply manually bury the card when I've
+  already seen this front today as part of the back of another of the
+  triplet.
 
 * English "0/1/2/3-conditional" nomenclature grammar categories
   supplied alongside English in conditional case use notes
