@@ -9,9 +9,10 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 
 ## Features
 
-* all chapter vocabulary (glosses excluded), including macrons and
-  accents, exactly as presented in Wheelock 7th edition, in both
-  reading- and writing- focused clozes, though typos are mine.
+* all chapter vocabulary (glosses excluded), including macrons,
+  accents, POS where unclear, and English derivatives, exactly as
+  presented in Wheelock 7th edition, in both reading- and writing-
+  focused clozes, though typos are mine.
 
 * Introduction (chapter 0) English flashcards on timeline of
   antiquity, pronunciation, and Latin authors.
@@ -62,8 +63,10 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   already seen this front today as part of the back of another of the
   triplet.
 
+* All numbers provided from Wheelock appendix for chapter 15
+
 * English "0/1/2/3-conditional" nomenclature grammar categories
-  supplied alongside English in conditional case use notes
+  supplied alongside English in conditional case use notes for chapter 33
 
 ## Usage
 
@@ -100,7 +103,7 @@ unchecked or else ensure everything is HTML compliant (which is to
 make sure no &, <, nor > are in the files, unless as intended for
 HTML) before import.
 
-### The Anki card browser: the deck anti-hierarchy
+### The Anki card browser and filtered decks: the deck anti-hierarchy
 
 The browser allows you to view cards with an extensive search language
 and edit the notes' fields whence the cards are derived.  Furthermore,
@@ -117,22 +120,23 @@ chapters (see below), you wish to study.
 
 ### Fields
 
-Card text is intended for cloze-style note import.
+Field "Card text" is intended for cloze-style note import.
 
-Source is provided with constant value "Wheelock" as a separate field
+Field "Source" is provided with constant value "Wheelock" as a separate field
 despite the entire deck being from Wheelock's Latin for the sake of
 "unified deck" reviewers like me, who do not separate their decks at
-all.  Instead, all the subjects I'm interested in knowing are
-interspersed in a single deck, and I can separate out just Wheelock by
-searching upon the Source field rather than using any more than a
-single unfiltered deck.  If you haven't tried one-deck reviewing, I
-recommend you do, I did on the advice of an Internet blog (thank you,
-random person!) and it's definitely a keener way to review cards.
+all.  (See http://rs.io/anki-tips/ ).  Instead, all the subjects I'm
+interested in knowing are interspersed in a single deck, and I can
+separate out just Wheelock by searching upon the Source field rather
+than using any more than a single unfiltered deck.  If you haven't
+tried one-deck reviewing, I recommend you do, I did on the advice of
+an Internet blog (thank you, random person!) and it's definitely a
+keener way to review cards.
 
-Chapter is the earliest chapter in which the Latin forms on the front
+Field "Chapter" is the earliest chapter in which the Latin forms on the front
 of the note were introduced.
 
-tags may have part-of-speech information and/or tags like chapter32
+Tags may have part-of-speech information and/or tags like chapter32
 which indicate the note was a reading comprehension namespace
 collision, wherein vocabulary memory and word form are insufficient to
 uniquely interpret the form absent additional context, and yet the
@@ -154,8 +158,10 @@ you'd like to study first, and suspend (or delete) all the notes
 except those, unsuspending chapters worth of cards as you go.
 Regardless of the path you choose to restrict notes to particular
 chapters, the imperative from the Anki software package that deck
-count for a user installation remain low is satisfied with
-organization in a single deck, rather than hierarchical decks.
+count for a user installation remain low (see
+https://apps.ankiweb.net/docs/manual.html#using-decks-appropriately )
+is satisfied with organization in a single deck, rather than
+hierarchical decks.
 
 Note also that, per the Anki manual, "You can hold down
 Ctrl (command on a Mac) and click in order to append the clicked
@@ -164,6 +170,32 @@ starting a new search."  Thus however far you are along in Wheelock's
 Latin, you can start with one of the searches below and append any
 tags from the sidebar with ctrl or command click, or your own search
 terms from among what you've already studied.
+
+### What is "Correct?"
+
+This card design was to emphasize long-term reading comprehension via
+short reviews over the methodic introduction of grammar as Wheelock's
+itself is, hence there is a compromise to reference-forward all the
+later different usages of the same earlier-introduced forms on a
+single card, as soon as the earlier-introduced usage of the form is
+encountered in the text.  That is, the entire textbook's answer to
+"What does this form mean?" is presented on a single card's back with
+a Chapter value of the earliest chapter in which that form was
+introduced with any meaning at all.
+
+Notes containing tags of the form chapter[0-9][0-9] are based upon
+material from more than one chapter in Wheelock's.  If you wish,
+consider the card correct during review only when you can recall the
+usage of the Latin form on the front of the card as it has already
+been introduced as you proceed with the text.  As you progress to
+successive chapters, you can search on each new chapter's tag and
+reschedule the matching cards at the beginning of the new card queue,
+and thereupon consider correct during review those cards you can
+recall both chapters' description of the same form's usage, etc.
+
+I also don't consider the English derivatives part of the memorization
+task, but still have them hidden alongside the Latin forms because
+they're too great a hint.
 
 ### Progressive Chapter Filter Searches
 
