@@ -128,10 +128,7 @@ despite the entire deck being from Wheelock's Latin for the sake of
 all.  (See http://rs.io/anki-tips/ ).  Instead, all the subjects I'm
 interested in knowing are interspersed in a single deck, and I can
 separate out just Wheelock by searching upon the Source field rather
-than using any more than a single unfiltered deck.  If you haven't
-tried one-deck reviewing, I recommend you do, I did on the advice of
-an Internet blog (thank you, random person!) and it's definitely a
-keener way to review cards.
+than using any more than a single unfiltered deck.
 
 Field "Chapter" is the earliest chapter in which the Latin forms on the front
 of the note were introduced.
@@ -196,6 +193,11 @@ recall both chapters' description of the same form's usage, etc.
 I also don't consider the English derivatives part of the memorization
 task, but still have them hidden alongside the Latin forms because
 they're too great a hint.
+
+Since relative and interrogative are so similar and simultaneously so
+context sensitive, I don't consider their translations to be part of
+what's correct on the g/c/n cards, only on the vocab cards (and
+exercises!)
 
 ### Progressive Chapter Filter Searches
 
