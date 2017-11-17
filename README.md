@@ -170,7 +170,7 @@ terms from among what you've already studied.
 
 ### What is "Correct?"
 
-This card design was to emphasize long-term reading comprehension via
+This card design was to emphasize lifelong reading comprehension via
 short reviews over the methodic introduction of grammar as Wheelock's
 itself is, hence there is a compromise to reference-forward all the
 later different usages of the same earlier-introduced forms on a
@@ -181,14 +181,17 @@ a Chapter value of the earliest chapter in which that form was
 introduced with any meaning at all.
 
 Notes containing tags of the form chapter[0-9][0-9] are based upon
-material from more than one chapter in Wheelock's.  If you wish,
-consider the card correct during review only when you can recall the
-usage of the Latin form on the front of the card as it has already
-been introduced as you proceed with the text.  As you progress to
-successive chapters, you can search on each new chapter's tag and
-reschedule the matching cards at the beginning of the new card queue,
-and thereupon consider correct during review those cards you can
-recall both chapters' description of the same form's usage, etc.
+material from more than one chapter in Wheelock's; these tag(s) are
+the later chapter(s) in which different meanings for an identical form
+were introduced from those introduced in the chapter housed in the
+Chapter field.  If you wish, consider the card correct during review
+only when you can recall the usage of the Latin form on the front of
+the card as it has already been introduced as you proceed with the
+text.  As you progress to successive chapters, you can search on each
+new chapter's tag and reschedule the matching cards at the beginning
+of the new card queue, and thereupon consider correct during review
+those cards you can recall both chapters' description of the same
+form's usage, etc.
 
 I also don't consider the English derivatives part of the memorization
 task, but still have them hidden alongside the Latin forms because
