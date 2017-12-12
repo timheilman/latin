@@ -31,10 +31,11 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   macrons, case, number], including distinguishment in c/n depending
   on macron
 
-* Adjectives categorized (1/2, 3, 3presActPart, 3comparative) also
-  inverted.  front: [decl., Latin adj or presActPart ending] back:
-  [gender, case, number, (degree)], including distinguishment of
-  g/c/n/(d) depending on macron
+* Adjectives categorized (1/2, 3positive, 3comparative,
+  3presActPartAttributive, 3presActPartNonAttributive) also inverted.
+  front: [decl., Latin adj ending] back: [gender, case, number,
+  (degree)], including distinguishment of g/c/n/(d) depending on
+  macron
 
 * Demonstratives, relatives, interrogatives, pronouns, comparatives,
   superlatives, etc., all with front: as the Latin word, stem, base,
@@ -47,8 +48,9 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   in Latin, e.g. front: bad/worse/worst derivatives? back: malevolent,
   pejorative, pessimist
 
-* Care taken with POS collision on word forms, e.g. vīs or relative
-  and interrogative, also keeping the focus on reading comprehension.
+* Care taken with POS collision on word forms, e.g. vīs, eās, or
+  relative and interrogative, also keeping the focus on reading
+  comprehension.
 
 * Intensive coverage of explanatory text, including case uses for
   difficult words (ablative use cases, subjunctive case uses,
