@@ -1,11 +1,12 @@
-# Wheelock's Latin for Anki
+# Wheelock's Latin Supreme for Anki
 
-Study materials for the Latin language, mainly from the text
-_Wheelock's Latin_ and in a format for import to the best-in-class
-spaced repetition flashcard software, Anki.
+Shared Anki flashcard deck paralleling _Wheelock's Latin_, 7th edition.
 
-I'll continue to add my initial imports. Maybe someday I'll publish
-the deck through AnkiWeb, and this will become the readme for the deck.
+This shared deck is not of the faint of heart.  It will require
+learning the Anki software sufficiently to manage a large deck using
+fields and tags, and it will teach *all* the material in the textbook,
+not simply the vocabulary, as the other _Wheelock's Latin_ decks
+shared at the time of this deck's publication do.
 
 ## Features
 
@@ -41,7 +42,8 @@ the deck through AnkiWeb, and this will become the readme for the deck.
   superlatives, etc., all with front: as the Latin word, stem, base,
   or ending.
 
-* Preposition and verb object case acceptance and irregularities are also clozed
+* Preposition and verb object case acceptance and irregularities are
+  also clozed
 
 * English derivative series memorization cards for the
   positive/comparative/superlative forms when such forms are irregular
@@ -76,49 +78,31 @@ the deck through AnkiWeb, and this will become the readme for the deck.
 
 First, install the free desktop application from http://ankisrs.net.
 
-Then, because the Latin forms are presented with
-macrons and accents, in order to enable lookup of Anki cards in the
-browser by the Latin forms used on the front of the cards, install this
-addon:
+Then, because the Latin forms are presented with macrons and accents,
+in order to enable lookup of Anki cards in the browser by the Latin
+forms used on the front of the cards, install this addon:
 
 https://ankiweb.net/shared/info/1924690148
 
-### TSV import
+### The Anki card browser and conquering prerequisite cards first
 
-TSV stands for tab-separated file.  Anki has TSV import support.  Most
-files in this repo ending in .tsv or .TSV are files intended for
-import to Anki and have these four fields, separated by tabs, one note per
-line:
+The browser allows you to select sets of cards with an extensive
+search language.  This deck is intended to be used in concert with
+this extensive search language, as well as the Suspend function, which
+excludes (groups of) cards from the review schedule until you have
+learned the prerequisite cards in preceding chapters. The Anki manual
+indicates that for the sake of mobile app performance, Anki doesn't
+handle large numbers of decks well.  (see
+https://apps.ankiweb.net/docs/manual.html#using-decks-appropriately )
+This is why the cards are contained in a large, single deck, and
+chapters are differentiated only with a field.
 
-1. card text
-2. source
-3. chapter
-4. tags
-
-These TSV representations have my human data-entry errors, because
-Anki has extensive editing, addon and import/export support, so I
-clean it up in there.  Sorry!  If/when I publish on ankiweb, they'll
-be more cleaned up, along with additional cards I added directly.
-
-In particular, be careful either to leave the HTML import box
-unchecked or else ensure everything is HTML compliant (which is to
-make sure no &, <, nor > are in the files, unless as intended for
-HTML) before import.
-
-### The Anki card browser and filtered decks: the deck anti-hierarchy
-
-The browser allows you to view cards with an extensive search language
-and edit the notes' fields whence the cards are derived.  Furthermore,
-the same search language allows you to create filtered decks, which is
-how this deck was prepared to be used, in accordance with the manual
-of the Anki software package itself, which indicates that for the sake
-of mobile app performance, Anki doesn't handle large numbers of decks
-well, as could eventually become the case with one deck per chapter
-just for Wheelock's alone among all the other decks one may have.
-
-Instead, sufficient functionality is provided with fields and tags to
-filter the deck by whichever chapter of Wheelock's, or progressive
-chapters (see below), you wish to study.
+In order to review only the cards from the Introduction (chapter 0),
+use the preformed search below to select the inverse set of cards
+(chapters 1-40) and suspend them.  Once chapter 0 is learned, select
+all the suspended cards from chapter 1 and unsuspend them.  After
+chapter 1 is learned, select all the suspended cards from chapter 2
+and unsuspend them, and so on.
 
 ### Fields
 
@@ -143,25 +127,6 @@ collision occurs not in a single chapter, but rather due to
 introduction of different interpretation for previously introduced
 forms in the later chapter(s) so tagged.
 
-### Which TSVs to import?
-
-By studying the cards in this deck from filtered decks instead of from
-the main deck created upon import of the tsv files, everything here
-can be imported once (as best you can) into a single Latin deck (or
-your single combined deck) and then adjusted with different, temporary
-filtered decks regardless of import order of the TSVs, to focus
-exclusively on small parts of this mammoth at a time.
-
-Alternately, you could search this deck in the browser for chapters
-you'd like to study first, and suspend (or delete) all the notes
-except those, unsuspending chapters worth of cards as you go.
-Regardless of the path you choose to restrict notes to particular
-chapters, the imperative from the Anki software package that deck
-count for a user installation remain low (see
-https://apps.ankiweb.net/docs/manual.html#using-decks-appropriately )
-is satisfied with organization in a single deck, rather than
-hierarchical decks.
-
 Note also that, per the Anki manual, "You can hold down
 Ctrl (command on a Mac) and click in order to append the clicked
 [sidebar] item to the current search with an AND condition, instead of
@@ -172,8 +137,11 @@ terms from among what you've already studied.
 
 ### What is "Correct?"
 
+First of all, remember, it's up to *you* what to consider a
+"correct"-worthy review.
+
 This card design was to emphasize lifelong reading comprehension via
-short reviews over the methodic introduction of grammar as Wheelock's
+short reviews /over/ the methodic introduction of grammar as Wheelock's
 itself is, hence there is a compromise to reference-forward all the
 later different usages of the same earlier-introduced forms on a
 single card, as soon as the earlier-introduced usage of the form is
@@ -205,6 +173,93 @@ what's correct on the g/c/n cards, only on the vocab cards (and
 exercises!)
 
 ### Progressive Chapter Filter Searches
+
+#### Selection of later chapters (to suspend)
+
+* Chapters 1-40 (If you're starting from the beginning of Wheelock's, this is the search to issue and suspend all the results of, as described above)
+  * source:Wheelock (chapter:1 OR chapter:2 OR chapter:3 OR chapter:4 OR chapter:5 OR chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 2-40
+  * source:Wheelock (chapter:2 OR chapter:3 OR chapter:4 OR chapter:5 OR chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 3-40
+  * source:Wheelock (chapter:3 OR chapter:4 OR chapter:5 OR chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 4-40
+  * source:Wheelock (chapter:4 OR chapter:5 OR chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 5-40
+  * source:Wheelock (chapter:5 OR chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 6-40
+  * source:Wheelock (chapter:6 OR chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 7-40
+  * source:Wheelock (chapter:7 OR chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 8-40
+  * source:Wheelock (chapter:8 OR chapter:9 OR chapter:__)
+* Chapters 9-40
+  * source:Wheelock (chapter:9 OR chapter:__)
+* Chapters 9-40
+  * source:Wheelock (chapter:9 OR chapter:__)
+* Chapters 10-40
+  * source:Wheelock (chapter:__)
+* Chapters 11-40
+  * source:Wheelock (chapter:11 OR chapter:12 OR chapter:13 OR chapter:14 OR chapter:15 OR chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 12-40
+  * source:Wheelock (chapter:12 OR chapter:13 OR chapter:14 OR chapter:15 OR chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 13-40
+  * source:Wheelock (chapter:13 OR chapter:14 OR chapter:15 OR chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 14-40
+  * source:Wheelock (chapter:14 OR chapter:15 OR chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 15-40
+  * source:Wheelock (chapter:15 OR chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 16-40
+  * source:Wheelock (chapter:16 OR chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 17-40
+  * source:Wheelock (chapter:17 OR chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 18-40
+  * source:Wheelock (chapter:18 OR chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 19-40
+  * source:Wheelock (chapter:19 OR chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 20-40
+  * source:Wheelock (chapter:2_ OR chapter:3_ OR chapter:40)
+* Chapters 21-40
+  * source:Wheelock (chapter:21 OR chapter:22 OR chapter:23 OR chapter:24 OR chapter:25 OR chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 22-40
+  * source:Wheelock (chapter:22 OR chapter:23 OR chapter:24 OR chapter:25 OR chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 23-40
+  * source:Wheelock (chapter:23 OR chapter:24 OR chapter:25 OR chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 24-40
+  * source:Wheelock (chapter:24 OR chapter:25 OR chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 25-40
+  * source:Wheelock (chapter:25 OR chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 26-40
+  * source:Wheelock (chapter:26 OR chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 27-40
+  * source:Wheelock (chapter:27 OR chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 28-40
+  * source:Wheelock (chapter:28 OR chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 29-40
+  * source:Wheelock (chapter:29 OR chapter:3_ OR chapter:40)
+* Chapters 30-40
+  * source:Wheelock (chapter:3_ OR chapter:40)
+* Chapters 31-40
+  * source:Wheelock (chapter:31 OR chapter:32 OR chapter:33 OR chapter:34 OR chapter:35 OR chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 32-40
+  * source:Wheelock (chapter:32 OR chapter:33 OR chapter:34 OR chapter:35 OR chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 33-40
+  * source:Wheelock (chapter:33 OR chapter:34 OR chapter:35 OR chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 34-40
+  * source:Wheelock (chapter:34 OR chapter:35 OR chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 35-40
+  * source:Wheelock (chapter:35 OR chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 36-40
+  * source:Wheelock (chapter:36 OR chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 37-40
+  * source:Wheelock (chapter:37 OR chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 38-40
+  * source:Wheelock (chapter:38 OR chapter:39 OR chapter:40)
+* Chapters 39-40
+  * source:Wheelock (chapter:39 OR chapter:40)
+* Chapters 40-40
+  * source:Wheelock (chapter:40)
+
+#### selection of earlier chapters
 
 * Chapters 0-0
   * source:Wheelock (chapter:0)
