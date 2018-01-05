@@ -1,6 +1,7 @@
 # Wheelock's Latin Supreme for Anki
 
-Shared Anki flashcard deck paralleling _Wheelock's Latin_, 7th edition.
+Shared Anki flashcard deck paralleling _Wheelock's Latin_, 7th
+edition, as shared at https://ankiweb.net/shared/info/2078955317
 
 This shared deck is not for the faint of heart.  It will require
 learning the Anki software sufficiently to manage a large deck using
@@ -150,7 +151,7 @@ First of all, remember, it's up to *you* what to consider a
 "correct"-worthy review.
 
 This card design was to emphasize lifelong reading comprehension via
-short reviews /over/ the methodic introduction of grammar as Wheelock's
+short reviews *over* the methodic introduction of grammar as Wheelock's
 itself is, hence there is a compromise to reference-forward all the
 later different usages of the same earlier-introduced forms on a
 single card, as soon as the earlier-introduced usage of the form is
