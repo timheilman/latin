@@ -2,7 +2,7 @@
 
 Shared Anki flashcard deck paralleling _Wheelock's Latin_, 7th edition.
 
-This shared deck is not of the faint of heart.  It will require
+This shared deck is not for the faint of heart.  It will require
 learning the Anki software sufficiently to manage a large deck using
 fields and tags, and it will teach *all* the material in the textbook,
 not simply the vocabulary, as the other _Wheelock's Latin_ decks
