@@ -99,10 +99,19 @@ chapters are differentiated only with a field.
 
 In order to review only the cards from the Introduction (chapter 0),
 use the preformed search below to select the inverse set of cards
-(chapters 1-40) and suspend them.  Once chapter 0 is learned, select
-all the suspended cards from chapter 1 and unsuspend them.  After
-chapter 1 is learned, select all the suspended cards from chapter 2
-and unsuspend them, and so on.
+(chapters 1-40), select a single card within the card list to bring
+focus to that list within the browser, use the "Select All" function
+from the edit menu, and suspend them.  Once chapter 0 is learned,
+issue the browser search "Source:Wheelock Chapter:1" select a single
+card within the card list to bring the list to focus, select all, and
+unsuspend them.  After chapter 1 is learned, select all the suspended
+cards from chapter 2 and unsuspend them, and so on.
+
+If you do not search, suspend, and unsuspend in this manner, the order
+of the cards will be the order in which I input them, which isn't
+quite in the same order as the chapters themselves: I sometimes went
+back to previous chapters to add additional cards after having created
+cards from later chapters.
 
 ### Fields
 
