@@ -102,7 +102,7 @@ use the preformed search below to select the inverse set of cards
 (chapters 1-40), select a single card within the card list to bring
 focus to that list within the browser, use the "Select All" function
 from the edit menu, and suspend them.  Once chapter 0 is learned,
-issue the browser search "Source:Wheelock Chapter:1" select a single
+issue the browser search "Source:Wheelock Chapter:1", select a single
 card within the card list to bring the list to focus, select all, and
 unsuspend them.  After chapter 1 is learned, select all the suspended
 cards from chapter 2 and unsuspend them, and so on.
@@ -180,6 +180,16 @@ Since relative and interrogative are so similar and simultaneously so
 context sensitive, I don't consider their translations to be part of
 what's correct on the g/c/n cards, only on the vocab cards (and
 exercises!)
+
+### Leeches and additional cards
+
+Leeches happen to all of us.  Do not feel bad!  Just because this deck
+was provided as-is doesn't mean it has all the cards you may need to
+successfully learn some of the difficult forms.  I myself had to add
+many cards besides the ones in this shared deck in order to learn
+leeches, generally by drawing a silly drawing, photographing it, and
+using the Image Occlusion Enhanced addon, here:
+https://ankiweb.net/shared/info/1111933094 .
 
 ### Progressive Chapter Filter Searches
 
