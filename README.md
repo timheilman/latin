@@ -366,4 +366,4 @@ https://ankiweb.net/shared/info/1111933094 .
 
 ## source data for grammar flashcards reading-comprehension focus construction
 
-https://docs.google.com/spreadsheets/d/1fTZ0nACj-buP4hBZmSY8WxlqpVmZhouqk2niEY1n4x8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1km5JHgyqWPDgwD_y8CkvrpcbGQWBQ8mL5VYaxItVsoU/
